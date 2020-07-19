@@ -3,8 +3,12 @@ html,body{
 }
 
 #title {
-    font-family: 'Amatic SC', normal, font-size: 35px;
-}
+    font-family: "Amatic SC";
+    font-size: 35px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 52.5px; }
 
 body {
     padding-top: 50px;
