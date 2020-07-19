@@ -3,7 +3,7 @@ html,body{
 }
 
 #title {
-    font-family: 'Amatic SC', normal;
+    font-family: 'Amatic SC', normal, font-size: 35px;
 }
 
 body {
