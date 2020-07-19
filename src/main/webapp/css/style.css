@@ -12,11 +12,11 @@ body {
 }
 
 .container-fluid, .row{
-    background-color: #ffffb1;
+    background-color: #ffffe4;
 }
 .sidebar {
     padding: 12px;
-    background-color: #ffffb1;
+    background-color: #ffffe4;
 }
 
 form {
