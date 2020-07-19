@@ -46,7 +46,6 @@
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
                 <li><a href="#create_observation" data-toggle="tab">Submit</a></li>
-                <li><a href="#query_observation" data-toggle="tab">Explore</a></li>
             </ul>
 
             <!-- Tab panes -->
@@ -222,7 +221,7 @@
                     </form>
                 </div>
 
-                
+
                         </div>
                     </form>
 
