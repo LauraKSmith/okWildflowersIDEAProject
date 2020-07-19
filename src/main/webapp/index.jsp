@@ -46,7 +46,6 @@
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
                 <li><a href="#create_observation" data-toggle="tab">Submit</a></li>
-                <li><a href="#query_observation" data-toggle="tab">Explore</a></li>
             </ul>
 
             <!-- Tab panes -->
@@ -221,20 +220,8 @@
                         <div class="button_div"><button type="submit" class="btn btn-info" id="report_submit_btn">Submit</button></div>
                     </form>
                 </div>
-                
 
-                        <div>
-                            <label>Start Date&nbsp</label>
-                            <input class="form-control" data-provide="datepicker" placeholder="mm/dd/yyyy" name="start_date" autocomplete="off">
-                        </div>
-                        <div>
-                            <label>End Date&nbsp</label>
-                            <input class="form-control"  data-provide="datepicker" placeholder="mm/dd/yyyy" name="end_date" autocomplete="off">
-                        </div>
-                        <div class="button_div">
-                            <button type="submit" class="btn btn-info">
-                                Submit
-                            </button>
+
                         </div>
                     </form>
 
