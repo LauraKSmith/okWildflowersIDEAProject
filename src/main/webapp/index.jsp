@@ -467,8 +467,7 @@
 </div>
 
 <!--     Footer       -->
-<footer class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a> and <a class="link" href=https://nickismith.github.io target="_blank"> Nicki Smith</a>
-<br>Historical wildflower data from <a class="link" href=https://www.torcherbaria.org/ target="_blank"> TORCH</a></footer>
+<footer class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a></footer>
 
 <script src="js/loadformOK.js"></script>
 <script src="js/loadmapOK.js"></script>
