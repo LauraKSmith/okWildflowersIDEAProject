@@ -26,7 +26,7 @@
   </script>
 
     <!-- Custom font -->
-    <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Amatic+SC&family=Satisfy&display=swap" rel="stylesheet">
 
     <!-- Custom styles -->
     <link rel="stylesheet" href="css/style.css">
