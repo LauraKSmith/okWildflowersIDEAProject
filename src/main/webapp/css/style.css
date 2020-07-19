@@ -1,5 +1,5 @@
 html,body{
-    background-color: #bcbcaa;
+    background-color: #000000;
 }
 
 #title {
@@ -61,5 +61,5 @@ form {
 .footer {
     background: #000000;
     color: #f8f9fa;
-    font-size: 2em;
+    font-size: 1em;
 }
