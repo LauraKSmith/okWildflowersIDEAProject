@@ -68,12 +68,10 @@ form {
     background: #000000;
     color: #f8f9fa;
     font-size: 1em;
-    a:link {
-        color: yellow;
-    }
-    
-    /* visited link */
-    a:visited {
-        color: whitesmoke;
-    }
+}
+
+a:link {
+    color: lightyellow;
+    background-color: transparent;
+    text-decoration: none;
 }
