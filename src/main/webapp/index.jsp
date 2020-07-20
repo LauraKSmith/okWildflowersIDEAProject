@@ -54,7 +54,61 @@
 
                     <div id="welcomeText"><img src="img/text4.png" height="100%" width="100%"></div>
 
-                    
+                    <%--    Wildlflower img carousel      --%>
+                    <div id="wildflowerCarousel" class="carousel slide" data-interval="false">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#wildflowerCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="1"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="2"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="3"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="4"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="5"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="6"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="7"></li>
+                            <li data-target="#wildflowerCarousel" data-slide-to="8"></li>
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img src="img/bluebonnetpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/mallowpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/yarrowpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/coneflowerpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/chrimsoncloverpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/indianblanketpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/indianpaintbrushpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/tickseedpic.png" alt="region">
+                            </div>
+                            <div class="item">
+                                <img src="img/milkweedpic.png" alt="region">
+                            </div>
+                        </div>
+
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
                     </div>
 
                 </div>
@@ -171,6 +225,20 @@
                 <div class="tab-pane" id="query_observation">
                     <form id = "query_observation_form">
 
+                        <div><label>Genus&nbsp</label>
+                            <select class="form-control" id="genus" name="genus">
+                                <option value="">Choose the genus</option>
+                                <option value="Achillea">Achillea</option>
+                                <option value="Aphanostephus">Aphanostephus</option>
+                                <option value="Asclepias">Asclepias</option>
+                                <option value="Castilleja">Castilleja</option>
+                                <option value="Coreopsis">Coreopsis</option>
+                                <option value="Echinacea">Echinacea</option>
+                                <option value="Gaillardia">Gaillardia</option>
+                                <option value="Phlox">Phlox</option>
+                                <option value="Trifolium">Trifolium</option>
+                            </select>
+                        </div>
 
                         <div><label>Common name&nbsp</label>
                             <select class="form-control" id="common_name" name="common">
