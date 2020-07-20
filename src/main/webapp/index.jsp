@@ -35,7 +35,7 @@
 </head>
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top" id="title">
-    <a class="navbar-brand">Wildflowers of Oklahoma</a>
+    <a class="navbar-brand">Save The Bees</a>
 </nav>
 
 <div class="container-fluid">
@@ -46,7 +46,6 @@
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
                 <li><a href="#create_observation" data-toggle="tab">Submit</a></li>
-                <li><a href="#query_observation" data-toggle="tab">Explore</a></li>
             </ul>
 
             <!-- Tab panes -->
