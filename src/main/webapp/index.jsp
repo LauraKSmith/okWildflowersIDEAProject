@@ -224,21 +224,7 @@
                 <!-- Query Observation Tab Panel: dropdowns are populated by main.js -->
                 <div class="tab-pane" id="query_observation">
                     <form id = "query_observation_form">
-
-                        <div><label>Genus&nbsp</label>
-                            <select class="form-control" id="genus" name="genus">
-                                <option value="">Choose the genus</option>
-                                <option value="Achillea">Achillea</option>
-                                <option value="Aphanostephus">Aphanostephus</option>
-                                <option value="Asclepias">Asclepias</option>
-                                <option value="Castilleja">Castilleja</option>
-                                <option value="Coreopsis">Coreopsis</option>
-                                <option value="Echinacea">Echinacea</option>
-                                <option value="Gaillardia">Gaillardia</option>
-                                <option value="Phlox">Phlox</option>
-                                <option value="Trifolium">Trifolium</option>
-                            </select>
-                        </div>
+                        
 
                         <div><label>Common name&nbsp</label>
                             <select class="form-control" id="common_name" name="common">
