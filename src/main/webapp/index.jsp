@@ -53,7 +53,7 @@
                 <div class="tab-pane active" id="welcome">
 
                     <div id="welcomeText"><img src="img/text4.png" height="100%" width="100%"></div>
-                    <div id="welcomeText"><img src="img/beehive.svg" height="100%" width="100%"></div>
+                    <div id="welcomeText"><img src="img/clover.svg" height="100%" width="100%"></div>
 
 
                 </div>
