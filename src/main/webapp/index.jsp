@@ -53,7 +53,7 @@
                 <div class="tab-pane active" id="welcome">
 
                     <div id="welcomeText"><img src="img/text4.png" height="100%" width="100%"></div>
-                    <div id="welcomeText"><img src="img/clover.svg" height="100%" width="100%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="100%" width="100%"></div>
 
 
                 </div>
@@ -108,7 +108,11 @@
 </div>
 
 <!--     Footer       -->
-<footer class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a></footer>
+<footer class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
+
+    <div id="footer"><img src="img/beedivider.svg" height="50%" width="100%"></div>
+
+</footer>
 
 <script src="js/loadformOK.js"></script>
 <script src="js/loadmapOK.js"></script>
