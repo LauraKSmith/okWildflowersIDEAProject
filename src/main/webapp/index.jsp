@@ -170,19 +170,7 @@
                 <div class="tab-pane" id="query_observation">
                     <form id = "query_observation_form">
 
-                        <div>
-                            <label>Start Date&nbsp</label>
-                            <input class="form-control" data-provide="datepicker" placeholder="mm/dd/yyyy" name="start_date" autocomplete="off">
-                        </div>
-                        <div>
-                            <label>End Date&nbsp</label>
-                            <input class="form-control"  data-provide="datepicker" placeholder="mm/dd/yyyy" name="end_date" autocomplete="off">
-                        </div>
-                        <div class="button_div">
-                            <button type="submit" class="btn btn-info">
-                                Submit
-                            </button>
-                        </div>
+
                     </form>
             </div>
         </div>
