@@ -108,9 +108,10 @@
 </div>
 
 <!--     Footer       -->
-<footer class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
+<footer
 
-    <div id="footer"><img src="img/beedivider.svg" height="50%" width="100%"></div>
+    <div id="footer"><img src="img/beedivider.svg" height="20%" width="100%"></div>
+    class="footer"><h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
 
 </footer>
 
