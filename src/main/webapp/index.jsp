@@ -79,7 +79,7 @@
                         </div>
                         <div class="button_div"><button type="submit" class="btn btn-info" id="report_submit_btn">Submit</button></div>
                     </form>
-                    <div id="welcomeText"><img src="img/bee3.svg" height="30%" width="30%"></div>
+                    <div id="welcomeText"><img src="img/bee3.svg" height="100%" width="100%"></div>
 
 
                 </div>
