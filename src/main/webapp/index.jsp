@@ -36,6 +36,7 @@
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top" id="title">
     <a class="navbar-brand">The Happy Hive Project</a>
+    <div id="navbar-brand"><img src="img/beedivider.svg" height="30%" width="30%"></div>
 </nav>
 
 <div class="container-fluid">
@@ -44,7 +45,6 @@
 
             <!-- Tab Navis-->
             <ul class="nav nav-tabs">
-                <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
                 <li><a href="#create_observation" data-toggle="tab">Submit</a></li>
             </ul>
 
