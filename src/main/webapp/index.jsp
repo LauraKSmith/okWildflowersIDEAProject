@@ -185,55 +185,6 @@
                             </select>
                         </div>
 
-                        <div><label>Common name&nbsp</label>
-                            <select class="form-control" id="common_name" name="common">
-                                <option value="">Choose the common name</option>
-                                <option value="antelopehorns">antelopehorns</option>
-                                <option value="Arkansas dozedaisy">Arkansas dozedaisy</option>
-                                <option value="blacksamson echinacea">blacksamson echinacea</option>
-                                <option value="broadleaf milkweed">broadleaf milkweed</option>
-                                <option value="buffalo clover">buffalo clover</option>
-                                <option value="Bush_s purple coneflower">Bush's purple coneflower</option>
-                                <option value="butterfly milkweed">butterfly milkweed</option>
-                                <option value="clasping milkweed">clasping milkweed</option>
-                                <option value="crimson clover">crimson clover</option>
-                                <option value="downy paintedcup">downy paintedcup</option>
-                                <option value="eastern purple coneflower">eastern purple coneflower</option>
-                                <option value="Engelmann_s milkweed">Engelmann's milkweed</option>
-                                <option value="entireleaf Indian paintbrush">entireleaf Indian paintbrush</option>
-                                <option value="fourleaf milkweed">fourleaf milkweed</option>
-                                <option value="golden tickseed">golden tickseed</option>
-                                <option value="green antelopehorn">green antelopehorn</option>
-                                <option value="green comet milkweed">green comet milkweed</option>
-                                <option value="green milkweed">green milkweed</option>
-                                <option value="Hairy dozedaisy">hairy dozedaisy</option>
-                                <option value="Indian blanket">Indian blanket</option>
-                                <option value="lanceleaf blanketflower">lanceleaf blanketflower</option>
-                                <option value="largeflower tickseed">largeflower tickseed</option>
-                                <option value="longhair phlox">longhair phlox</option>
-                                <option value="Oklahoma phlox">Oklahoma phlox</option>
-                                <option value="pale purple coneflower">pale purple coneflower</option>
-                                <option value="perfumeballs">perfumeballs</option>
-                                <option value="Plains dozedaisy">plains dozedaisy</option>
-                                <option value="plains milkweed">plains milkweed</option>
-                                <option value="prairie Indian paintbrush">prairie Indian paintbrush</option>
-                                <option value="red dome blanketflower">red dome blanketflower</option>
-                                <option value="rough coneflower">rough coneflower</option>
-                                <option value="sand milkweed">sand milkweed</option>
-                                <option value="sanguine purple coneflower">sanguine purple coneflower</option>
-                                <option value="showy milkweed">showy milkweed</option>
-                                <option value="sleepy silene">sleepy silene</option>
-                                <option value="star tickseed">star tickseed</option>
-                                <option value="stiff tickseed">stiff tickseed</option>
-                                <option value="strigose blacksamson">strigose blacksamson</option>
-                                <option value="swamp milkweed">swamp milkweed</option>
-                                <option value="tall tickseed">tall tickseed</option>
-                                <option value="Topeka purple coneflower">Topeka purple coneflower</option>
-                                <option value="white clover">white clover</option>
-                                <option value="whorled milkweed">whorled milkweed</option>
-                            </select>
-                        </div>
-
                         <div><label>County&nbsp</label>
                             <select class="form-control" id="county_auto" name="county">
                                 <option value="">Choose the county</option>
