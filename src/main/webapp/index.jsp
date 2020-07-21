@@ -234,19 +234,6 @@
                             </select>
                         </div>
 
-                        <div><label>Biome&nbsp</label>
-                            <select class="form-control" id="biome" name="biome">
-                                <option value="">Choose the biome region</option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5">5</option>
-                                <option value="6">6</option>
-                                <option value="7">7</option>
-                            </select>
-                        </div>
-
                         <div><label>County&nbsp</label>
                             <select class="form-control" id="county_auto" name="county">
                                 <option value="">Choose the county</option>
