@@ -51,8 +51,7 @@
             <!-- Tab panes -->
             <div class="tab-content ">
                 <div class="tab-pane active" id="welcome">
-
-                    <div id="welcomeText"><img src="img/text4.png" height="100%" width="100%"></div>
+                    
                     <div id="welcomeText"><img src="img/bee.svg" height="100%" width="100%"></div>
 
 
