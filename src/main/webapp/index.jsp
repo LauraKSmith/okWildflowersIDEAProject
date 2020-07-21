@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <title>Web Project</title>
+  <title>The Happy Hive Project</title>
 
   <!-- Custom styles -->
     <!-- Custom styles -->
