@@ -82,7 +82,6 @@
                     <div id="welcomeText"><img src="img/bee3.svg" height="30%" width="30%"></div>
 
 
-
                 </div>
                 <!-- Create Observation Tab Panel -->
                 <div class="tab-pane" id="create_observation">
