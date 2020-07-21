@@ -45,7 +45,6 @@
             <!-- Tab Navis-->
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
-                <li><a href="#create_observation" data-toggle="tab">Submit</a></li>
             </ul>
 
             <!-- Tab panes -->
