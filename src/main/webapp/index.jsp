@@ -35,7 +35,7 @@
 </head>
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top" id="title">
-    <a class="navbar-brand">Save The Bees</a>
+    <a class="navbar-brand">The Happy Hive Project</a>
 </nav>
 
 <div class="container-fluid">
@@ -53,7 +53,7 @@
                 <div class="tab-pane active" id="welcome">
 
                     <div id="welcomeText"><img src="img/text4.png" height="100%" width="100%"></div>
-
+                    <div id="welcomeText"><img src="img/beehive.svg" height="100%" width="100%"></div>
 
 
                 </div>
