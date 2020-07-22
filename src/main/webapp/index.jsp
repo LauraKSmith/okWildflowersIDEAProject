@@ -38,6 +38,13 @@
     <a class="navbar-brand">The Happy Hive Project</a>
 </nav>
 
+<section id="top">
+    <p>This is a paragraph.</p>
+</section>
+
+
+
+<section id="middle">
 <div class="container-fluid">
     <div class="row">
         <div class="sidebar col-xs-3">
@@ -133,6 +140,7 @@
 </div>
 
 </div>
+</section>
 
 <!--     Footer       -->
 <footer>
