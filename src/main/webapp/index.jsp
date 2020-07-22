@@ -39,7 +39,15 @@
 </nav>
 
 <section id="top">
-    <p>This is a paragraph.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <br>
+    <p>
+        Please join The Happy Hive project by increasing the biodiveristy in your neighborhood! Let us know what you planted by using the map
+        below. Plant by plant we can make sure bees have enough resources no matter where they are located.
+    </p>
 </section>
 
 
@@ -142,6 +150,15 @@
 </div>
 </section>
 
+
+<section id="bottom">
+    <p>Here is where I will and charts and graphs. I will also put an infographic here.</p>
+    <br>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</section>
 <!--     Footer       -->
 <footer>
 
