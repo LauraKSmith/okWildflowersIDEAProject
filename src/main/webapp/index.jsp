@@ -97,7 +97,7 @@
                     <br>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee3.svg" height="100%" width="100%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="100%" width="100%"></div>
 
 
                 </div>
