@@ -52,16 +52,14 @@ form {
     padding-top: 0px;
     padding-bottom: 10px;
 }
-#wildflowerCarousel{
-    padding-top: 10px;
-}
+
 #welcomeText {
     padding-top: 50px;
 }
 
 .footer {
     font-family: "Amatic SC";
-    font-size: 30px;
+    font-size: 10px;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
