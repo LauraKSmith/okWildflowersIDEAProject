@@ -18,10 +18,11 @@ body {
 section#top {
     padding-top: 50px;
     font-family: 'Quicksand', sans-serif;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 700;
     background-color: #ffffe4;
     float: center;
+    padding: 20px 0;
 
 }
 
@@ -66,11 +67,6 @@ form {
     padding-top: 10px;
 }
 
-
-#okregions {
-    padding-top: 0px;
-    padding-bottom: 10px;
-}
 
 #welcomeText {
     padding-top: 50px;
