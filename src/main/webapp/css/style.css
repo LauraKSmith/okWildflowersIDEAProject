@@ -20,6 +20,7 @@ section#top {
     font-size: 18px;
     font-weight: 700;
     background-color: #ffffe4;
+    text-align: center;
     float: center;
     padding-top: 50px;
     padding-left: 50px;
@@ -34,7 +35,16 @@ section#middle {
 }
 
 section#bottom {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
     background-color: #ffffe4;
+    text-align: center;
+    float: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
 
 }
 .container-fluid, .row{
