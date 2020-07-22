@@ -97,7 +97,7 @@
                     <br>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="100%" width="100%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="90%" width="90%"></div>
 
 
                 </div>
@@ -167,8 +167,7 @@
 <!--     Footer       -->
 <footer>
 
-    <div id="footer"><img src="img/beedividerlong.svg" height="80%" width="80%"></div>
-    <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
+    <div id="footer"><img src="img/beedividerlong.svg" height="80%" width="80%"></div> <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
 
 </footer>
 
