@@ -96,7 +96,6 @@
                     </form>
                     <br>
                     <br>
-                    <br>
                     <div id="welcomeText"><img src="img/bee.svg" height="90%" width="90%"></div>
 
 
