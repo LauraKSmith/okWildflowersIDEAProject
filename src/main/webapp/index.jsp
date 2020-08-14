@@ -13,6 +13,14 @@
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
+
+<!-- liquid gauges -->
+    <script src="https://d3js.org/d3.v3.min.js" language="JavaScript"></script>
+    <script src="liquidFillGauge.js" language="JavaScript"></script>
+    <style>
+        .liquidFillGaugeText { font-family: Helvetica; font-weight: bold; }
+    </style>
+
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -156,6 +164,44 @@
 <section id="bottom">
     <p>Here is where I will add charts and graphs. I will also put an infographic here.</p>
     <br>
+    <svg id="fillgauge2" width="19%" height="200" onclick="gauge2.update(NewValue());"></svg>
+    <svg id="fillgauge4" width="19%" height="200" onclick="gauge4.update(NewValue());"></svg>
+    <svg id="fillgauge3" width="19%" height="200" onclick="gauge3.update(NewValue());"></svg>
+    <svg id="fillgauge4" width="19%" height="200" onclick="gauge4.update(NewValue());"></svg>
+    <svg id="fillgauge5" width="19%" height="200" onclick="gauge5.update(NewValue());"></svg>
+    <script language="JavaScript">
+        var config1 = liquidFillGaugeDefaultSettings();
+        config1.circleColor = "#ea9d3e";
+        config1.textColor = "#ea9d3e";
+        config1.waveTextColor = "#d28d37";
+        config1.waveColor = "#eec33d";
+        config1.circleThickness = 0.15;
+        config1.textVertPosition = 0.2;
+        config1.waveAnimateTime = 5000;
+        config1.waveCount = 2;
+        var gauge2= loadLiquidFillGauge("fillgauge2", 28, config1);
+        var config2 = liquidFillGaugeDefaultSettings();
+        config2.circleColor = "#ea9d3e";
+        config2.textColor = "#ea9d3e";
+        config2.waveTextColor = "#d28d37";
+        config2.waveColor = "#eec33d";
+        config2.circleThickness = 0.15;
+        config2.textVertPosition = 0.2;
+        config2.waveAnimateTime = 5000;
+        config2.waveCount = 2;
+        var gauge3 = loadLiquidFillGauge("fillgauge3", 49, config2);
+        var config4 = liquidFillGaugeDefaultSettings();
+        config4.circleColor = "#ea9d3e";
+        config4.textColor = "#ea9d3e";
+        config4.waveTextColor = "#d28d37";
+        config4.waveColor = "#eec33d";
+        config4.circleThickness = 0.15;
+        config4.textVertPosition = 0.2;
+        config4.waveAnimateTime = 5000;
+        config4.waveCount = 2;
+        var gauge5 = loadLiquidFillGauge("fillgauge5", 60, config4);
+
+    </script>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
         dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
