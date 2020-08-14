@@ -48,11 +48,11 @@ section#bottom {
 
 }
 .container-fluid, .row{
-    background-color: ##ddceb7;
+    background-color: #ddceb7;
 }
 .sidebar {
     padding: 12px;
-    background-color: ##ddceb7;
+    background-color: #ddceb7;
 }
 
 form {
