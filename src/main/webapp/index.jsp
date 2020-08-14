@@ -179,7 +179,7 @@
         config1.waveColor = "#eec33d";
         config1.circleThickness = 0.15;
         config1.textVertPosition = 0.2;
-        config1.waveAnimateTime = 1000;
+        config1.waveAnimateTime = 3000;
         config1.waveCount = 2;
         var gauge2= loadLiquidFillGauge("fillgauge2", 28, config1);
         var config2 = liquidFillGaugeDefaultSettings();
@@ -199,8 +199,8 @@
         config4.waveColor = "#eec33d";
         config4.circleThickness = 0.15;
         config4.textVertPosition = 0.2;
-        config4.waveAnimateTime = 10000;
-        config4.waveCount = 2;
+        config4.waveAnimateTime = 4000;
+        config4.waveCount = 2.5;
         var gauge5 = loadLiquidFillGauge("fillgauge5", 60, config4);
 
         <!-- end of liquid gauges-->
