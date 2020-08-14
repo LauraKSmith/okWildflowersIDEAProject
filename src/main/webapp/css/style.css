@@ -48,11 +48,11 @@ section#bottom {
 
 }
 .container-fluid, .row{
-    background-color: #ea9d3e;
+    background-color: ##ddceb7;
 }
 .sidebar {
     padding: 12px;
-    background-color: #ea9d3e;
+    background-color: ##ddceb7;
 }
 
 form {
@@ -91,7 +91,7 @@ form {
     font-variant: normal;
     font-weight: 700;
     line-height: 30px;
-    background: #000000;
+    background: #ea9d3e;
     color: #f8f9fa;
     font-size: 1em;
 }
