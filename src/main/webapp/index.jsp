@@ -164,6 +164,8 @@
 <section id="bottom">
     <p>Here is where I will add charts and graphs. I will also put an infographic here.</p>
     <br>
+
+    <!-- start of liquid gauges -->
     <svg id="fillgauge2" width="19%" height="200" onclick="gauge2.update(NewValue());"></svg>
     <svg id="fillgauge4" width="19%" height="200" onclick="gauge4.update(NewValue());"></svg>
     <svg id="fillgauge3" width="19%" height="200" onclick="gauge3.update(NewValue());"></svg>
@@ -177,7 +179,7 @@
         config1.waveColor = "#eec33d";
         config1.circleThickness = 0.15;
         config1.textVertPosition = 0.2;
-        config1.waveAnimateTime = 5000;
+        config1.waveAnimateTime = 1000;
         config1.waveCount = 2;
         var gauge2= loadLiquidFillGauge("fillgauge2", 28, config1);
         var config2 = liquidFillGaugeDefaultSettings();
@@ -197,9 +199,11 @@
         config4.waveColor = "#eec33d";
         config4.circleThickness = 0.15;
         config4.textVertPosition = 0.2;
-        config4.waveAnimateTime = 5000;
+        config4.waveAnimateTime = 10000;
         config4.waveCount = 2;
         var gauge5 = loadLiquidFillGauge("fillgauge5", 60, config4);
+
+        <!-- end of liquid gauges-->
 
     </script>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
