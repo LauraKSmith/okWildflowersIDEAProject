@@ -212,10 +212,7 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <br>
     <p>Here is where I will insert 4 buttons to link to resources to learn more.</p>
-
-    <svg height="30" width="100" xmlns:xlink=?img/honeybutton.svg">
-        <a xlink:href="www.medium.com/p/f254e0f6b71a" target="__blank"><text x="0" y="15" fill="black">My Blog!</text></a>
-    </svg>
+    <a href="www.google.com"> <img src="img/honeybutton.svg" height="500px" width="500px"></img></a>
 
 </section>
 <!--     Footer       -->
