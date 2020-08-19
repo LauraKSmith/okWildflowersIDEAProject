@@ -215,11 +215,14 @@
     <!-- hyperlinked images-->
     <p>Here is where I will insert 4 buttons to link to resources to learn more.</p>
     <a href="https://www.google.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.yahoo.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.facebook.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.amazon.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
     <!-- end of hyperlinked images-->
-    
+
 </section>
 <!--     Footer       -->
 <footer>
