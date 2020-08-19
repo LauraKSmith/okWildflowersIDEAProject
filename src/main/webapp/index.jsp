@@ -213,14 +213,11 @@
 
 
     <!-- start of pollinator explination-->
-    <a  target="blank">
-        <div class="hvrbox">
-            <img src="img/pollination1.svg" alt="BeeFlower" class="hvrbox-layer_bottom">
-            <div class="hvrbox-layer_top">
-                <div class="hvrbox-text">When bees visit plants they collect pollen. <div class="hvrbox-text_mobile"></div></div>
-            </div>
-        </div>
-    </a>
+    <img src="img/pollination1.svg" height="100px" width="100px"></img></a>
+    <img src="img/pollination2.svg" height="100px" width="100px"></img></a>
+    <img src="img/pollination3.svg" height="100px" width="100px"></img></a>
+    <img src="img/pollination4.svg" height="100px" width="100px"></img></a>
+    <img src="img/pollination5.svg" height="100px" width="100px"></img></a>
     <!-- end of pollinator explination-->
 
     <!-- hyperlinked images-->
