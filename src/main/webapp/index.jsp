@@ -228,12 +228,12 @@
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.  </p>
     <br>
     <br>
-    <a href="https://www.google.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.pollinator.org/guides"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.yahoo.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
+    <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.facebook.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
+    <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.amazon.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <!-- end of hyperlinked images-->
 
