@@ -213,7 +213,9 @@
     <br>
 
     <!-- hyperlinked images-->
-    <p>Here is where I will insert 4 buttons to link to resources to learn more.</p>
+    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.  </p>
+    <br>
+    <br>
     <a href="https://www.google.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
     <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.yahoo.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
