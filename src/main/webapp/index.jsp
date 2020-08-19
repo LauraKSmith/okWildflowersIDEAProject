@@ -213,11 +213,15 @@
 
 
     <!-- start of pollinator explination-->
-    <img src="img/pollination1.svg" height="100px" width="100px"></img></a>
-    <img src="img/pollination2.svg" height="100px" width="100px"></img></a>
-    <img src="img/pollination3.svg" height="100px" width="100px"></img></a>
-    <img src="img/pollination4.svg" height="100px" width="100px"></img></a>
-    <img src="img/pollination5.svg" height="100px" width="100px"></img></a>
+    <img src="img/pollination1.svg" height="150px" width="150px"></img></a>
+    <img src="img/dashes1.svg" height="150px" width="150px"></img></a>
+    <img src="img/pollination2.svg" height="150px" width="150px"></img></a>
+    <img src="img/dashes2.svg" height="150px" width="150px"></img></a>
+    <img src="img/pollination3.svg" height="150px" width="150px"></img></a>
+    <img src="img/dashes3.svg" height="150px" width="150px"></img></a>
+    <img src="img/pollination4.svg" height="150px" width="150px"></img></a>
+    <img src="img/dashes4.svg" height="150px" width="150px"></img></a>
+    <img src="img/pollination5.svg" height="150px" width="150px"></img></a>
     <!-- end of pollinator explination-->
 
     <!-- hyperlinked images-->
