@@ -47,9 +47,9 @@
 </nav>
 
 <section id="top">
-    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Colony collapse disorder is affecting bee?s everywhere,
+    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Colony collapse disorder is affecting bees everywhere,
         and if we do not do our part we will lose a staggering amount of biodiversity and put our food sources at risk. Luckily, when it comes to saving the bees a little
-        help goes a long way. Planting some of bee?s favorite foods bolsters your communities resilience and prevents colony collapse.</p>
+        help goes a long way. Planting some of bees favorite foods bolsters your communities resilience and prevents colony collapse.</p>
     <br>
     <p>
         Please join The Happy Hive Project by increasing the biodiveristy in your neighborhood! Let us know what you planted by using the map
@@ -211,17 +211,29 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <br>
 
+
+    <!-- start of pollinator explination-->
+    <a  target="blank">
+        <div class="hvrbox">
+            <img src="img/pollination1.svg" alt="BeeFlower" class="hvrbox-layer_bottom">
+            <div class="hvrbox-layer_top">
+                <div class="hvrbox-text">When bees visit plants they collect pollen. <div class="hvrbox-text_mobile"></div></div>
+            </div>
+        </div>
+    </a>
+    <!-- end of pollinator explination-->
+
     <!-- hyperlinked images-->
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.  </p>
     <br>
     <br>
-    <a href="https://www.google.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.google.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.yahoo.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.yahoo.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.facebook.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.facebook.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a href="https://www.google.com/"> <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.amazon.com/"> <img src="img/honeybutton.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.amazon.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <!-- end of hyperlinked images-->
 
 </section>
