@@ -81,7 +81,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         // 3. create report
         int report_id = 0;
         String county = request.getParameter("county");
-
+        String genus = request.getParameter("genus");
         String lon = request.getParameter("longitude");
         String lat = request.getParameter("latitude");
         String scientific_name = request.getParameter("scientific_name");
