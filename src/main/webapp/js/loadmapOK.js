@@ -50,7 +50,7 @@ function mapInitialization(observations) {
         if (common != null){
             common = common.replace(/_/g, '\'');
         }
-        var contentStr = '<h4>Observation Details</h4><hr>';
+        var contentStr = '<h4>What Did You Plant?</h4><hr>';
         contentStr += '<p><b>' + 'Common name' + ':</b>&nbsp' + common + '</p>';
         contentStr += '<p><b>' + 'Scientific name' + ':</b>&nbsp' + e['scientific_name'] + '</p>';
         contentStr += '<p><b>' + 'County' + ':</b>&nbsp' + e['county'] + '</p>';
@@ -67,70 +67,70 @@ function mapInitialization(observations) {
 
         if (genus=='Achillea') {
             icon = {
-                url: 'img/tickseed.svg',
+                url: 'img/flower.svg',
                 scaledSize: new google.maps.Size(60, 60),}
         } else if (genus == 'Aphanostephus') {
             icon = {
-                url: 'img/dogwood.svg',
+                url: 'img/tree.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Asclepias') {
             icon = {
-                url: 'img/bluebonnet.svg',
+                url: 'img/ivy.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Castilleja') {
             icon = {
-                url: 'img/pricklypoppy.svg',
+                url: 'img/shrub.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Coreopsis') {
             icon = {
-                url: 'img/bachelorbutton.svg',
+                url: 'img/clover.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Echinacea') {
             icon = {
-                url: 'img/indianpaintbrush.svg',
+                url: 'img/flower.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Gaillardia') {
             icon = {
-                url: 'img/indianblanket.svg',
+                url: 'img/tree.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Phlox') {
             icon = {
-                url: 'img/purplemallo.svg',
+                url: 'img/ivy.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Rudbeckia') {
             icon = {
-                url: 'img/canola.svg',
+                url: 'img/shrub.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Silene') {
             icon = {
-                url: 'img/prairieanemone.svg',
+                url: 'img/clover.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Trifolium') {
             icon = {
-                url: 'img/yellowladyslipper.svg',
+                url: 'img/flower.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Trillium') {
             icon = {
-                url: 'img/coneflower.svg',
+                url: 'img/tree.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else {
             icon = {
-                url: 'img/sunflower.png',
+                url: 'img/canola.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         }
