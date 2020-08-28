@@ -50,7 +50,7 @@ function mapInitialization(observations) {
         if (common != null){
             common = common.replace(/_/g, '\'');
         }
-        var contentStr = '<h4>What Did You Plant?</h4><hr>';
+        var contentStr = '<h4>Observation Details</h4><hr>';
         contentStr += '<p><b>' + 'Common name' + ':</b>&nbsp' + common + '</p>';
         contentStr += '<p><b>' + 'Scientific name' + ':</b>&nbsp' + e['scientific_name'] + '</p>';
         contentStr += '<p><b>' + 'County' + ':</b>&nbsp' + e['county'] + '</p>';
@@ -67,70 +67,70 @@ function mapInitialization(observations) {
 
         if (genus=='Achillea') {
             icon = {
-                url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15),}
+                url: 'img/tickseed.svg',
+                scaledSize: new google.maps.Size(60, 60),}
         } else if (genus == 'Aphanostephus') {
             icon = {
-                url: 'img/tree.svg',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                url: 'img/dogwood.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Asclepias') {
             icon = {
-                url: 'img/ivy.png',
+                url: 'img/bluebonnet.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Castilleja') {
             icon = {
-                url: 'img/shrub.png',
+                url: 'img/pricklypoppy.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Coreopsis') {
             icon = {
-                url: 'img/clover.png',
+                url: 'img/bachelorbutton.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Echinacea') {
             icon = {
-                url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15), // scaled size
+                url: 'img/indianpaintbrush.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Gaillardia') {
             icon = {
-                url: 'img/tree.png',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                url: 'img/indianblanket.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Phlox') {
             icon = {
-                url: 'img/ivy.png',
+                url: 'img/purplemallo.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Rudbeckia') {
             icon = {
-                url: 'img/shrub.png',
+                url: 'img/canola.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Silene') {
             icon = {
-                url: 'img/clover.png',
+                url: 'img/prairieanemone.svg',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Trifolium') {
             icon = {
-                url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15), // scaled size
+                url: 'img/yellowladyslipper.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Trillium') {
             icon = {
-                url: 'img/tree.png',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                url: 'img/coneflower.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else {
             icon = {
-                url: 'img/canola.png',
+                url: 'img/sunflower.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         }
