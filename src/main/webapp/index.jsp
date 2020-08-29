@@ -265,7 +265,7 @@
 <!--     Footer       -->
 <footer>
 
-    <div id="footer"><img src="img/beedivider2.svg" height="80%" width="80%"></div> <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
+    <div id="footer"><img src="img/beedivider3.svg" height="80%" width="80%"></div> <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
 
 </footer>
 
