@@ -1,17 +1,15 @@
 package org.wildflowers.servlet;
 
-import java.sql.*;
-import java.util.logging.Logger;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class DBUtilityOK {
     private static final String Driver = "org.postgresql.Driver";
-    private static final Logger logger = Logger.getLogger(DBUtilityOK.class.getName());
 
-   /* private static final String ConnUrl = "jdbc:postgresql://ec2-18-235-20-228.compute-1.amazonaws.com:5432/d5lucrbuppa2h7";
-    private static final String Username = "zpxhyiszlihrzk";
-    private static final String Password = "d8071070280d011e26ffa689ac4946852dd0a76c1f3887361653b8f55f4055da";*/
-
-    private static final String ConnUrl = "jdbc:postgresql://ec2-34-197-188-147.compute-1.amazonaws.com:5432/d92h8lktlufbl9";
+    private static final String ConnUrl = "jdbc:postgresql://ec2-34-197-188-147.compute-1.amazonaws.com";
     private static final String Username = "jmgqkivkfomtda";
     private static final String Password = "ec658f08c52208adc0b4b076d6eaebcbcfd9436b85c0d68eea0b633b856a4549";
 
@@ -25,7 +23,6 @@ public class DBUtilityOK {
         try {
             Class.forName(Driver);
             conn = DriverManager.getConnection(ConnUrl, Username, Password);
-            logger.info("Successfully established connection");
             return conn;
         } catch (Exception e) {
             e.printStackTrace();
@@ -42,7 +39,6 @@ public class DBUtilityOK {
                 Statement stmt = conn.createStatement();
                 res = stmt.executeQuery(sql);
                 conn.close();
-                logger.info("Able to execute query");
             }
         } catch (Exception e) {
             e.printStackTrace();
