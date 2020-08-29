@@ -90,9 +90,11 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         String common_name = request.getParameter("common_name");
         String habitat = request.getParameter("habitat");
         String recorded_by = request.getParameter("recorded_by");
+        String type = request.getParameter("type");
 
         if (county != null) {county = "'" + county + "'";}
         if (genus != null) {genus = "'" + genus + "'";}
+        if (type != null) {type = "'" + type + "'";}
         if (scientific_name != null) {scientific_name = "'" + scientific_name + "'";}
         if (common_name != null) {common_name = "'" + common_name + "'";}
         if (habitat != null) {habitat = "'" + habitat + "'";}
@@ -102,7 +104,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 
         System.out.println(biome);
 
-        sql = "insert into wildflowers (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, geom)" +
+        sql = "insert into wildflowers (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, type, geom)" +
                 " values (" + county + "," + genus + "," + scientific_name
                 + "," + common_name + "," + habitat + "," + recorded_by + "," + date + "," + biome +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
@@ -129,7 +131,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             response) throws JSONException, SQLException, IOException {
         //create an empty JSON array to pass into the query helper
         JSONArray list = new JSONArray();
-        String sql = "select id, habitat, common_name, biome, recorded_by, county, date, genus, " +
+        String sql = "select id, habitat, common_name, biome, recorded_by, county, type, date, genus, " +
                 "scientific_name, ST_X(geom) as " +
                 "longitude, ST_Y(geom) as latitude from wildflowers";
         String genusParam = request.getParameter("genus");
@@ -536,6 +538,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             m.put("biome", res.getString("biome"));
             m.put("habitat", res.getString("habitat"));
             m.put("genus", res.getString("genus"));
+            m.put("type", res.getString("type"));
             list.put(m);
         }
     }

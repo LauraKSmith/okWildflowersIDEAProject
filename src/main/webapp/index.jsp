@@ -39,7 +39,7 @@
     <!-- Custom styles -->
     <link rel="stylesheet" href="css/style.css">
 
-  <!-- created using https://favicomatic.com -->
+  <!-- Icon for html tab created using https://favicomatic.com -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114.png" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72.png" />
@@ -265,7 +265,7 @@
 <!--     Footer       -->
 <footer>
 
-    <div id="footer"><img src="img/beedividerlong.svg" height="80%" width="80%"></div> <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
+    <div id="footer"><img src="img/beedivider2.svg" height="80%" width="80%"></div> <h3 id="authors">Created by <a class="link" href=https://vagabondmap.com target="_blank"> Laura K. Smith</a>
 
 </footer>
 

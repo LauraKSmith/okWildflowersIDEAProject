@@ -59,6 +59,55 @@ function mapInitialization(observations) {
         contentStr += '<p><b>' + 'Recorded by' + ':</b>&nbsp' + e['recorded_by'] + '</p>';
         contentStr += '<p><b>' + 'Date' + ':</b>&nbsp' + e['date'] + '</p>';
 
+
+        /*
+
+                //add custom icons for each genus
+        var icon;
+        var type = e['type'];
+
+        console.log(">>>>> TYPE: ", type);
+
+        if (type =='Tree') {
+            icon = {
+                url: 'img/tree.svg',
+                scaledSize: new google.maps.Size(60, 60),}
+        } else if (type == 'Shrub') {
+            icon = {
+                url: 'img/shrub.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }
+        } else if (type == 'Flower') {
+            icon = {
+                url: 'img/flower.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }
+        } else if (type == 'Ivy') {
+            icon = {
+                url: 'img/ivy.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }
+        } else if (type == 'GroundCover') {
+            icon = {
+                url: 'img/clover.svg',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }
+         } else if (type == 'Other') {
+            icon = {
+                url: 'img/pricklypoppy.png',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }       } else {
+            icon = {
+                url: 'img/pricklypoppy.png',
+                scaledSize: new google.maps.Size(60, 60), // scaled size
+            }
+        }
+         */
+         */
+
+        */
+         */
+
         //add custom icons for each genus
         var icon;
         var genus = e['genus'];
