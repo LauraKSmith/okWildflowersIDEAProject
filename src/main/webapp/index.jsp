@@ -39,7 +39,7 @@
     <!-- Custom styles -->
     <link rel="stylesheet" href="css/style.css">
 
-  <!-- Icon for html tab created using https://favicomatic.com -->
+  <!-- created using https://favicomatic.com -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114.png" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72.png" />

@@ -81,7 +81,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         // 3. create report
         int report_id = 0;
         String county = request.getParameter("county");
-
+        String genus = request.getParameter("genus");
         String lon = request.getParameter("longitude");
         String lat = request.getParameter("latitude");
         String scientific_name = request.getParameter("scientific_name");
@@ -90,9 +90,11 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         String common_name = request.getParameter("common_name");
         String habitat = request.getParameter("habitat");
         String recorded_by = request.getParameter("recorded_by");
+        String type = request.getParameter("type");
 
         if (county != null) {county = "'" + county + "'";}
         if (genus != null) {genus = "'" + genus + "'";}
+        if (type != null) {type = "'" + type + "'";}
         if (scientific_name != null) {scientific_name = "'" + scientific_name + "'";}
         if (common_name != null) {common_name = "'" + common_name + "'";}
         if (habitat != null) {habitat = "'" + habitat + "'";}
@@ -102,7 +104,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 
         System.out.println(biome);
 
-        sql = "insert into wildflowers (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, geom)" +
+        sql = "insert into wildflowers (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, type, geom)" +
                 " values (" + county + "," + genus + "," + scientific_name
                 + "," + common_name + "," + habitat + "," + recorded_by + "," + date + "," + biome +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
