@@ -66,34 +66,35 @@
 
             <!-- Tab Navis-->
             <ul class="nav nav-tabs">
-                <li class="active"><a href="#welcome" data-toggle="tab">Welcome!</a></li>
+                <li class="active"><a href="#welcome" data-toggle="tab">Welcome to the Happy Hive Community!</a></li>
             </ul>
 
             <!-- Tab panes -->
             <div class="tab-content ">
                 <div class="tab-pane active" id="welcome">
                     <form id = "create_observation_form">
-                        <div><label>Date Plantes&nbsp</label><input class="form-control" placeholder="mm/dd/yyyy" name="date" autocomplete="off"></div>
+                        <div><label>Date Planted&nbsp</label><input class="form-control" placeholder="mm/dd/yyyy" name="date" autocomplete="off"></div>
 
                         <div>
-                            <!--
-                            <label>Type&nbsp</label>
+                            
+                            <label>Plant Type&nbsp</label>
 
 
                               <select class="form-control" name="type">
                                 <option value=''>Select a plant type</option>
-                                <option value='Herb'>Herb</option>
+                                <option value='Shrub'>Shrub</option>
                                 <option value='Flower'>Flower</option>
                                 <option value='Tree'>Tree</option>
                                 <option value='GroundCover'>GroundCover</option>
+                                <option value='Ivy'>Ivy</option>
                                 <option value='Other'>Other</option>
 
                             </select>
 
-                             -->
-                            <div><label>Common name&nbsp</label><input class="form-control" placeholder="Common name (required)" name="common_name" required></div>
+
+                            <div><label>Plant Name&nbsp</label><input class="form-control" placeholder="Common name (required)" name="common_name" required></div>
                             <div><label>Scientific name&nbsp</label><input class="form-control" placeholder="Scientific name" name="scientific_name"></div>
-                            <div><label>Habitat&nbsp</label><input class="form-control" id="habitat" placeholder="Description (max 500 characters)" name="habitat" maxlength="500"></div>
+                            <div><label>Habitat&nbsp</label><input class="form-control" id="habitat" placeholder="Where Is This Planted? (max 500 characters)" name="habitat" maxlength="500"></div>
                             <div><label>Recorded by&nbsp</label><input class="form-control" placeholder="Your name" name="recorded_by"></div>
                         </div>
                         <div><label>Address&nbsp</label>
