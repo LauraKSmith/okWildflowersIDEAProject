@@ -73,7 +73,7 @@
             <div class="tab-content ">
                 <div class="tab-pane active" id="welcome">
                     <form id = "create_observation_form">
-                        <div><label>Date of observation&nbsp</label><input class="form-control" placeholder="mm/dd/yyyy" name="date" autocomplete="off"></div>
+                        <div><label>Date Plantes&nbsp</label><input class="form-control" placeholder="mm/dd/yyyy" name="date" autocomplete="off"></div>
 
                         <div>
                             <!--
@@ -228,7 +228,7 @@
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.  </p>
     <br>
     <br>
-    <a href="https://www.pollinator.org/guides"> <img src="img/hive.png" height="200px" width="200px"></img></a>
+    <a href="https://www.pollinator.org/guides"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.bermondseystreetbees.co.uk/planting-for-pollinators-green-offset/"> <img src="img/ref1.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
