@@ -103,10 +103,6 @@ function mapInitialization(observations) {
             }
         }
          */
-         */
-
-        */
-         */
 
         //add custom icons for each genus
         var icon;
