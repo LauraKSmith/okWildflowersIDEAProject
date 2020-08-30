@@ -68,11 +68,11 @@ function mapInitialization(observations) {
         if (genus=='Achillea') {
             icon = {
                 url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15),}
+                scaledSize: new google.maps.Size(50, 50),}
         } else if (genus == 'Aphanostephus') {
             icon = {
                 url: 'img/tree.svg',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else if (genus == 'Asclepias') {
             icon = {
@@ -92,12 +92,12 @@ function mapInitialization(observations) {
         } else if (genus == 'Echinacea') {
             icon = {
                 url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15), // scaled size
+                scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else if (genus == 'Gaillardia') {
             icon = {
                 url: 'img/tree.png',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else if (genus == 'Phlox') {
             icon = {
@@ -120,13 +120,13 @@ function mapInitialization(observations) {
         } else if (genus == 'Trifolium') {
             icon = {
                 url: 'img/flower.png',
-                scaledSize: new google.maps.Size(15, 15), // scaled size
+                scaledSize: new google.maps.Size(50, 50), // scaled size
             }
 
         } else if (genus == 'Trillium') {
             icon = {
                 url: 'img/tree.png',
-                scaledSize: new google.maps.Size(10, 10), // scaled size
+                scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else {
             icon = {
