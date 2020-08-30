@@ -76,17 +76,17 @@ function mapInitialization(observations) {
             }
         } else if (genus == 'Asclepias') {
             icon = {
-                url: 'img/ivy.png',
+                url: 'img/ivy1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Castilleja') {
             icon = {
-                url: 'img/shrub.png',
+                url: 'img/shrub1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Coreopsis') {
             icon = {
-                url: 'img/clover.png',
+                url: 'img/clover1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Echinacea') {
@@ -101,19 +101,19 @@ function mapInitialization(observations) {
             }
         } else if (genus == 'Phlox') {
             icon = {
-                url: 'img/ivy.png',
+                url: 'img/ivy1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Rudbeckia') {
             icon = {
-                url: 'img/shrub.png',
+                url: 'img/shrub1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
         } else if (genus == 'Silene') {
             icon = {
-                url: 'img/clover.png',
+                url: 'img/clover1.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
 
@@ -130,7 +130,7 @@ function mapInitialization(observations) {
             }
         } else {
             icon = {
-                url: 'img/canola.png',
+                url: 'img/ticksed.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         }
