@@ -184,7 +184,9 @@
 
 
 <section id="bottom">
-    <p>Here is where I will add charts and graphs. I will also put an infographic here.</p>
+    <p>Here is where I will add charts and graphs. I will also put an infographic here. I want a hexigon bar chart that looks like honey combs. If the DB doesnt swap out add a leaflet map of
+    ecoregions and what to plant in each. toggle buttons for plant types ie trees, shrubs, flowers, ect. Also make an chart about the types and varity of plants that are reliant on bees. Create hover boxes
+    for the icons that explain the pollination proccess. </p>
     <br>
 
     <!-- start of liquid gauges -->
