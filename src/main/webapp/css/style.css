@@ -105,6 +105,29 @@ form {
     width: 150px;
 }
 
+.img__wrap2 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+.img__wrap3 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+.img__wrap4 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+.img__wrap5 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
 .img__description_layer {
     position: absolute;
     background: #e0e0cc;
