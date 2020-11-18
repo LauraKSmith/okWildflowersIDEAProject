@@ -244,9 +244,9 @@
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
         <img class="img__img" src="img/pollination2.svg" />
-         class="img__description_layer">
+        <div class="img__description_layer">
             <p class="img__description">The bee will collect this pollen and store it primarily on their legs & move on to the next flower.</p>
-
+        </div>
         <img class="img__img" src="img/pollination3.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
@@ -259,7 +259,7 @@
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
         </div>
-    </>
+    </div>
 
 
     <!-- hyperlinked images-->
