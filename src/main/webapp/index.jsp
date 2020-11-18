@@ -238,6 +238,28 @@
 
 
     <!-- start of pollinator explination-->
+    <div class="img__wrap">
+        <img class="img__img" src="img/pollination1.svg" />
+        <div class="img__description_layer">
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+        </div>
+        <img class="img__img" src="img/pollination2.svg" />
+        <div class="img__description_layer">
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+        </div>
+        <img class="img__img" src="img/pollination3.svg" />
+        <div class="img__description_layer">
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+        </div>
+        <img class="img__img" src="img/pollination4.svg" />
+        <div class="img__description_layer">
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+        </div>
+        <img class="img__img" src="img/pollination5.svg" />
+        <div class="img__description_layer">
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+        </div>
+    </div>
     <img src="img/pollination1.svg" height="150px" width="150px"></img></a>
     <img src="img/dashes1.svg" height="150px" width="150px"></img></a>
     <img src="img/pollination2.svg" height="150px" width="150px"></img></a>
