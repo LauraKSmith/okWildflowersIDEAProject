@@ -241,12 +241,12 @@
     <div class="img__wrap">
         <img class="img__img" src="img/pollination1.svg" />
         <div class="img__description_layer">
-            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
+            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
         <img class="img__img" src="img/pollination2.svg" />
-        <div class="img__description_layer">
-            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
-        </div>
+         class="img__description_layer">
+            <p class="img__description">The bee will collect this pollen and store it primarily on their legs & move on to the next flower.</p>
+
         <img class="img__img" src="img/pollination3.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
@@ -259,17 +259,8 @@
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.  .</p>
         </div>
-    </div>
-    <img src="img/pollination1.svg" height="150px" width="150px"></img></a>
-    <img src="img/dashes1.svg" height="150px" width="150px"></img></a>
-    <img src="img/pollination2.svg" height="150px" width="150px"></img></a>
-    <img src="img/dashes2.svg" height="150px" width="150px"></img></a>
-    <img src="img/pollination3.svg" height="150px" width="150px"></img></a>
-    <img src="img/dashes3.svg" height="150px" width="150px"></img></a>
-    <img src="img/pollination4.svg" height="150px" width="150px"></img></a>
-    <img src="img/dashes4.svg" height="150px" width="150px"></img></a>
-    <img src="img/pollination5.svg" height="150px" width="150px"></img></a>
-    <!-- end of pollinator explination-->
+    </>
+
 
     <!-- hyperlinked images-->
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.
