@@ -238,36 +238,50 @@
 
 
     <!-- start of pollinator explination-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
     <div class="img__wrap">
         <img class="img__img" src="img/pollination1.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
     </div>
+            </div>
+                <div class="col-sm-4">
     <div class="img__wrap2">
         <img class="img__img" src="img/pollination2.svg" />
         <div class="img__description_layer">
             <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
         </div>
     </div>
+                </div>
+                    <div class="col-sm-4">
     <div class="img__wrap3">
         <img class="img__img" src="img/pollination3.svg" />
         <div class="img__description_layer">
             <p class="img__description">When the bee visits the next type of plant they leave behind pollen from the previous plant pollinating the new plant.</p>
         </div>
     </div>
+                    </div>
+                        <div class="col-sm-4">
     <div class="img__wrap4">
         <img class="img__img" src="img/pollination4.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
     </div>
+                        </div>
+                            <div class="col-sm-4">
     <div class="img__wrap5">
         <img class="img__img" src="img/pollination5.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
-    </div> <!-- https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering     found here   -->
+    </div>
+    </div>
+        </div>
+    </div><!-- https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering     found here   -->
 
     <!-- end of pollinator explination-->
 
