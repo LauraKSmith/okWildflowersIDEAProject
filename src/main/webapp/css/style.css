@@ -101,36 +101,36 @@ form {
 /* relevant styles */
 .img__wrap {
     position: relative;
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
 }
 
 .img__wrap2 {
     position: relative;
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
 }
 
 .img__wrap3 {
     position: relative;
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
 }
 
 .img__wrap4 {
     position: relative;
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
 }
 
 .img__wrap5 {
     position: relative;
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
 }
 .img__description_layer {
     position: absolute;
-    background: #e0e0cc;
+    background: #ddceb7;
 
     visibility: hidden;
     opacity: 0;

@@ -240,7 +240,7 @@
     <!-- start of pollinator explination-->
     <div class="container">
         <div class="row">
-            <div class="col-sm-2">
+            <div class="col-sm-3">
     <div class="img__wrap">
         <img class="img__img" src="img/pollination1.svg" />
         <div class="img__description_layer">
@@ -248,7 +248,7 @@
         </div>
     </div>
             </div>
-                <div class="col-sm-2">
+                <div class="col-sm-3">
     <div class="img__wrap2">
         <img class="img__img" src="img/pollination2.svg" />
         <div class="img__description_layer">
@@ -256,7 +256,7 @@
         </div>
     </div>
                 </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-3">
     <div class="img__wrap3">
         <img class="img__img" src="img/pollination3.svg" />
         <div class="img__description_layer">
@@ -264,7 +264,7 @@
         </div>
     </div>
                     </div>
-                        <div class="col-sm-2">
+                        <div class="col-sm-3">
     <div class="img__wrap4">
         <img class="img__img" src="img/pollination4.svg" />
         <div class="img__description_layer">
@@ -272,7 +272,7 @@
         </div>
     </div>
                         </div>
-                            <div class="col-sm-2">
+                            <div class="col-sm-3">
     <div class="img__wrap5">
         <img class="img__img" src="img/pollination5.svg" />
         <div class="img__description_layer">
