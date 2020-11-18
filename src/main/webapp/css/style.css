@@ -147,11 +147,20 @@ form {
     opacity: 1;
 }
 
+.img__wrap2:hover .img__description_layer {
+    visibility: visible;
+    opacity: 1;
+}
+
 .img__description {
     transition: .2s;
     transform: translateY(1em);
 }
 
 .img__wrap:hover .img__description {
+      transform: translateY(0);
+  }
+
+.img__wrap2:hover .img__description {
     transform: translateY(0);
 }
