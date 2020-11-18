@@ -205,7 +205,7 @@
         config1.textVertPosition = 0.2;
         config1.waveAnimateTime = 3000;
         config1.waveCount = 2;
-        var gauge2= loadLiquidFillGauge("fillgauge2", 28, config1);
+        var gauge2= loadLiquidFillGauge("fillgauge2", 80, config1);
         var config2 = liquidFillGaugeDefaultSettings();
         config2.circleColor = "#ea9d3e";
         config2.textColor = "#ea9d3e";
