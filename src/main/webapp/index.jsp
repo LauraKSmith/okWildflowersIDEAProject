@@ -225,15 +225,17 @@
         config4.textVertPosition = 0.2;
         config4.waveAnimateTime = 4000;
         config4.waveCount = 2.5;
-        var gauge5 = loadLiquidFillGauge("fillgauge5", 60, config4);
+        var gauge5 = loadLiquidFillGauge("fillgauge5", 90, config4);
 
         <!-- end of liquid gauges-->
 
     </script>
-    <p><strong>80%</strong> of plants require pollination by animals. .</p>
+    <br>
+    <p><strong>80%</strong> of the worlds plants require pollination by animals. .</p>
     <br>
     <p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>
     <br>
+    <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p>
 
 
     <!-- start of pollinator explination-->
