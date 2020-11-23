@@ -215,7 +215,7 @@
         config2.textVertPosition = 0.2;
         config2.waveAnimateTime = 5000;
         config2.waveCount = 2;
-        var gauge3 = loadLiquidFillGauge("fillgauge3", 49, config2);
+        var gauge3 = loadLiquidFillGauge("fillgauge3", 37, config2);
         var config4 = liquidFillGaugeDefaultSettings();
         config4.circleColor = "#ea9d3e";
         config4.textColor = "#ea9d3e";
@@ -230,10 +230,9 @@
         <!-- end of liquid gauges-->
 
     </script>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p><strong>80%</strong> of plants require pollination by animals. .</p>
+    <br>
+    <p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>
     <br>
 
 
