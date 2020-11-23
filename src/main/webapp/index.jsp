@@ -231,11 +231,11 @@
 
     </script>
     <br>
-    <p><strong>80%</strong> of the worlds plants require pollination by animals. .</p>
+    <p><strong>80%</strong> of the worlds plants require pollination by animals. .</p> <!-- https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
     <br>
-    <p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>
+    <p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>  <!-- https://www.sierraclub.org/georgia/BEElieve -->
     <br>
-    <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p>
+    <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> <!--  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
 
     <!-- start of pollinator explination-->
