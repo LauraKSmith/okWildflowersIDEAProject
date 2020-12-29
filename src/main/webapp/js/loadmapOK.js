@@ -68,7 +68,7 @@ function mapInitialization(observations) {
         if (genus=='Achillea') {
             icon = {
                 url: 'img/purpleflower.png',
-                scaledSize: new google.maps.Size(30, 30),}
+                scaledSize: new google.maps.Size(25, 30),}
         } else if (genus == 'Aphanostephus') {
             icon = {
                 url: 'img/clover2.png',
@@ -82,7 +82,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Castilleja') {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
+                scaledSize: new google.maps.Size(30, 40), // scaled size
             }
         } else if (genus == 'Coreopsis') {
             icon = {
@@ -92,7 +92,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Echinacea') {
             icon = {
                 url: 'img/purpleflower.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
+                scaledSize: new google.maps.Size(25, 30), // scaled size
             }
         } else if (genus == 'Gaillardia') {
             icon = {
@@ -102,7 +102,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Phlox') {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
+                scaledSize: new google.maps.Size(30, 40), // scaled size
             }
 
         } else if (genus == 'Rudbeckia') {
@@ -120,7 +120,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Trifolium') {
             icon = {
                 url: 'img/purpleflower.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
+                scaledSize: new google.maps.Size(25, 30), // scaled size
             }
 
         } else if (genus == 'Trillium') {
@@ -131,7 +131,7 @@ function mapInitialization(observations) {
         } else {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
+                scaledSize: new google.maps.Size(30, 40), // scaled size
             }
         }
 
