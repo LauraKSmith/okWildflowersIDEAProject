@@ -71,7 +71,7 @@ function mapInitialization(observations) {
                 scaledSize: new google.maps.Size(50, 50),}
         } else if (genus == 'Aphanostephus') {
             icon = {
-                url: 'img/clover2.svg',
+                url: 'img/clover2.png',
                 scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else if (genus == 'Asclepias') {
