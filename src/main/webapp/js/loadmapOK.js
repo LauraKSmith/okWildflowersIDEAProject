@@ -76,7 +76,7 @@ function mapInitialization(observations) {
             }
         } else if (genus == 'Asclepias') {
             icon = {
-                url: 'img/tree.png',
+                url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(60, 60), // scaled size
             }
         } else if (genus == 'Castilleja') {
@@ -96,7 +96,7 @@ function mapInitialization(observations) {
             }
         } else if (genus == 'Gaillardia') {
             icon = {
-                url: 'img/tree.png',
+                url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else if (genus == 'Phlox') {
@@ -125,7 +125,7 @@ function mapInitialization(observations) {
 
         } else if (genus == 'Trillium') {
             icon = {
-                url: 'img/tree.png',
+                url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(50, 50), // scaled size
             }
         } else {

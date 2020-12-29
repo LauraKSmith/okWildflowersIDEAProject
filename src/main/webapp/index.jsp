@@ -69,9 +69,9 @@
 </nav>
 
 <section id="top">
-    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Colony collapse disorder is affecting bees everywhere,
+    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Bee populations are decreasing across the world for a number of reasons,
         and if we do not do our part we will lose a staggering amount of biodiversity and put our food sources at risk. Luckily, when it comes to saving the bees a little
-        help goes a long way. Planting some of bees favorite foods bolsters your communities resilience and prevents colony collapse.</p>
+        help goes a long way. Planting some of bees favorite foods bolsters your communities resilience and increase bee population.</p>
     <br>
     <p>
         Please join The Happy Hive Project by increasing the biodiveristy in your neighborhood! Let us know what you planted by using the map
