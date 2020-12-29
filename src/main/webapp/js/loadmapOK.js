@@ -82,7 +82,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Castilleja') {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(40, 40), // scaled size
+                scaledSize: new google.maps.Size(40, 35), // scaled size
             }
         } else if (genus == 'Coreopsis') {
             icon = {
@@ -102,7 +102,7 @@ function mapInitialization(observations) {
         } else if (genus == 'Phlox') {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(40, 40), // scaled size
+                scaledSize: new google.maps.Size(40, 35), // scaled size
             }
 
         } else if (genus == 'Rudbeckia') {
@@ -131,7 +131,7 @@ function mapInitialization(observations) {
         } else {
             icon = {
                 url: 'img/bush.png',
-                scaledSize: new google.maps.Size(40, 40), // scaled size
+                scaledSize: new google.maps.Size(40, 35), // scaled size
             }
         }
 
