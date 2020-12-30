@@ -65,10 +65,15 @@ function mapInitialization(observations) {
 
         console.log(">>>>> GENUS: ", genus);
 
-        if (genus=='Achillea') {
+        if (genus=='Flower') {
             icon = {
                 url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(25, 30),}
+        } else if (genus == 'Achillea') {
+            icon = {
+                url: 'img/clover2.png',
+                scaledSize: new google.maps.Size(30, 30), // scaled size
+            }
         } else if (genus == 'Aphanostephus') {
             icon = {
                 url: 'img/clover2.png',
@@ -123,9 +128,9 @@ function mapInitialization(observations) {
                 scaledSize: new google.maps.Size(25, 30), // scaled size
             }
 
-        } else if (genus == 'Trillium') {
+        } else if (genus == 'Other') {
             icon = {
-                url: 'img/tree.png',
+                url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(20, 30), // scaled size
             }
         } else {

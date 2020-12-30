@@ -237,6 +237,8 @@
     <br>
     <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> <!--  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
+    <div id="tempgraph"><img src="img/tempgraph.png" height="100%" width="100%"></div>
+
 
     <!-- start of pollinator explination-->
     <div class="container">
@@ -253,7 +255,8 @@
     <div class="img__wrap2">
         <img class="img__img" src="img/pollination2.svg" />
         <div class="img__description_layer">
-            <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
+            <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will visit up to 500 of the same flower to collect enough pollen.
+                The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
         </div>
     </div>
                 </div>
@@ -261,7 +264,7 @@
     <div class="img__wrap3">
         <img class="img__img" src="img/pollination3.svg" />
         <div class="img__description_layer">
-            <p class="img__description">When the bee visits the next type of plant they leave behind pollen from the previous plant pollinating the new plant.</p>
+            <p class="img__description">When the bee visits the next plant they leave behind pollen from the previous plant pollinating the new plant.</p>
         </div>
     </div>
                     </div>
@@ -277,7 +280,7 @@
     <div class="img__wrap5">
         <img class="img__img" src="img/pollination5.svg" />
         <div class="img__description_layer">
-            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
+            <p class="img__description">Once the bee has procured enough pollen, it returns to its hive where the pollen will be turned into honey.</p>
         </div>
     </div>
     </div>
@@ -286,7 +289,7 @@
                 <div class="img__wrap6">
                     <img class="img__img" src="img/pollination1.svg" />
                     <div class="img__description_layer">
-                        <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
+                        <p class="img__description">After depositing the pollen in the hive the bee will start the process over visiting over 5000 flowers in a day.</p>
                     </div>
                 </div>
             </div>
