@@ -237,7 +237,7 @@
     <br>
     <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> <!--  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
-    <div id="tempgraph"><img src="img/tempgraph.png" height="20%" width="50%"></div>
+    <div id="tempgraph"><img src="img/beechart.png" height="100%" width="100%"></div>
 
 
     <!-- start of pollinator explination-->
@@ -307,9 +307,9 @@
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.bermondseystreetbees.co.uk/planting-for-pollinators-green-offset/"> <img src="img/ref1.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.facebook.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a href="http://www.greengardenbuzz.com/good-bee-trees"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://www.amazon.com/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <!-- end of hyperlinked images-->
 
 </section>
