@@ -86,7 +86,7 @@ function mapInitialization(observations) {
             }
         } else if (genus == 'Coreopsis') {
             icon = {
-                url: 'img/herbs.png',
+                url: 'img/shrub.png',
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             }
         } else if (genus == 'Echinacea') {
@@ -107,7 +107,7 @@ function mapInitialization(observations) {
 
         } else if (genus == 'Rudbeckia') {
             icon = {
-                url: 'img/herbs.png',
+                url: 'img/shrub.png',
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             }
 
