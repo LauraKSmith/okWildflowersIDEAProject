@@ -237,7 +237,7 @@
     <br>
     <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> <!--  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
-    <div id="tempgraph"><img src="img/tempgraph.png" height="100%" width="100%"></div>
+    <div id="tempgraph"><img src="img/tempgraph.png" height="40%" width="100%"></div>
 
 
     <!-- start of pollinator explination-->
