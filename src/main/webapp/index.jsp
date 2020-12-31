@@ -307,9 +307,9 @@
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.bermondseystreetbees.co.uk/planting-for-pollinators-green-offset/"> <img src="img/ref1.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="http://www.greengardenbuzz.com/good-bee-trees"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a href="http://www.greengardenbuzz.com/good-bee-trees"> <img src="img/greengarden.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/beeinformed.png" height="100px" width="100px"></img></a>
+    <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/beeinformed.png" height="150px" width="150px"></img></a>
     <!-- end of hyperlinked images-->
 
 </section>
