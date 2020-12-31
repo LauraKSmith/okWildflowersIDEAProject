@@ -303,13 +303,13 @@
     These sources also helped to provide a broad understanding of the pollinators in order to create this website. </p>
     <br>
     <br>
-    <a href="https://www.pollinator.org/guides"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a href="https://www.pollinator.org/guides"> <img src="img/pollinatorpartnership.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://www.bermondseystreetbees.co.uk/planting-for-pollinators-green-offset/"> <img src="img/ref1.png" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="http://www.greengardenbuzz.com/good-bee-trees"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
-    <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
+    <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/beeinformed.png" height="200px" width="200px"></img></a>
     <!-- end of hyperlinked images-->
 
 </section>
