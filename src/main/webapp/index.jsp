@@ -230,6 +230,7 @@
         <!-- end of liquid gauges-->
 
     </script>
+    div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
     <br>
     <p><strong>80%</strong> of the worlds plants require pollination by animals.</p> <!--80% https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
     <br>
@@ -299,8 +300,7 @@
     <!-- end of pollinator explination-->
 
     <!-- hyperlinked images-->
-    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below. Saving the bees is a community effort and a little help goes a long way.
-    These sources also helped to provide a broad understanding of the pollinators in order to create this website. </p>
+    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p>
     <br>
     <br>
     <a href="https://www.pollinator.org/guides"> <img src="img/pollinatorpartnership.png" height="100px" width="200px"></img></a>
