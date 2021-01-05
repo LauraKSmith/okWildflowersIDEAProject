@@ -230,13 +230,14 @@
         <!-- end of liquid gauges-->
 
     </script>
-    div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
+    
+    <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
     <br>
-    <p><strong>80%</strong> of the worlds plants require pollination by animals.</p> <!--80% https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
+    <!-- <p><strong>80%</strong> of the worlds plants require pollination by animals.</p> ---- 80% https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
     <br>
-    <p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>  <!-- https://www.sierraclub.org/georgia/BEElieve -->
+    <!--<p><strong>37%</strong> of the 20,000 bee species on earth are in decline.</p>  ----- https://www.sierraclub.org/georgia/BEElieve -->
     <br>
-    <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> <!--  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
+    <!-- <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> ----  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
     <div id="tempgraph"><img src="img/beegraph.png" height="80%" width="100%"></div>
 
