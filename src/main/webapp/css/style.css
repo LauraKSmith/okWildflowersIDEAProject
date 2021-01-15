@@ -133,9 +133,17 @@ form {
     width: 150px;
     background-color: #FFFFFF;
 }
+
+.img__wrap6 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #FFFFFF;
+}
+
 .img__description_layer {
     position: absolute;
-    background: #ddceb7;
+    background: #FFFFFF;
 
     visibility: hidden;
     opacity: 0;
