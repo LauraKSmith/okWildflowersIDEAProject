@@ -103,6 +103,7 @@ form {
     position: relative;
     height: 150px;
     width: 150px;
+    background-color: #FFFFFF;
 }
 
 .img__wrap2 {
@@ -145,31 +146,37 @@ form {
 .img__wrap:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap2:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap3:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap4:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap5:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap6:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 .img__description {
     transition: .2s;
