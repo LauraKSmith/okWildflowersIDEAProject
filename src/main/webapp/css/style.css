@@ -145,6 +145,7 @@ form {
 .img__wrap:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
+    background-color: #FFFFFF;
 }
 
 .img__wrap2:hover .img__description_layer {
@@ -171,7 +172,6 @@ form {
     visibility: visible;
     opacity: 1;
 }
-
 .img__description {
     transition: .2s;
     transform: translateY(1em);
@@ -179,6 +179,7 @@ form {
 
 .img__wrap:hover .img__description {
       transform: translateY(0);
+      background-color: #FFFFFF;
   }
 
 .img__wrap2:hover .img__description {
