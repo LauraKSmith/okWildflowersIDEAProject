@@ -230,7 +230,7 @@
         <!-- end of liquid gauges-->
 
     </script>
-    
+
     <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
     <br>
     <!-- <p><strong>80%</strong> of the worlds plants require pollination by animals.</p> ---- 80% https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
@@ -300,6 +300,18 @@
 
     <!-- end of pollinator explination-->
 
+    <!-- start of plant calendar -->
+    <p>Understanding how bees are struggling to find resources and how pollination works leads us to the conclusion that the best way to help bees thrive is to plant
+        a pollinator garden. Knowing that bees must visit up to 500 of the same type of flower per trip help us narrow down the plants that would be most beneficial.
+        Ground covers like clover or trees provide ample pollen for bees to work quickly and effectively. That said knowing what types of plant work best for your
+        climate, house type, and in each season can be difficult. Providing food for bees year-round even when they are not particularly active is essential as most
+        bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
+        the right climate zone. </p>
+
+    <div id="calendar"><img src="img/calendar.png" height="100%" width="100%"></div>
+
+
+    <!-- end of plant calendar -->
     <!-- hyperlinked images-->
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p>
     <br>
