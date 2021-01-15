@@ -145,7 +145,6 @@ form {
 .img__wrap:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
-    background-color: #FFFFFF;
 }
 
 .img__wrap2:hover .img__description_layer {
@@ -175,6 +174,7 @@ form {
 .img__description {
     transition: .2s;
     transform: translateY(1em);
+    background-color: #FFFFFF;
 }
 
 .img__wrap:hover .img__description {
@@ -184,20 +184,25 @@ form {
 
 .img__wrap2:hover .img__description {
       transform: translateY(0);
+      background-color: #FFFFFF;
   }
 
 .img__wrap3:hover .img__description {
     transform: translateY(0);
+    background-color: #FFFFFF;
 }
 
 .img__wrap4:hover .img__description {
     transform: translateY(0);
+    background-color: #FFFFFF;
 }
 
 .img__wrap5:hover .img__description {
     transform: translateY(0);
+    background-color: #FFFFFF;
 }
 
 .img__wrap6:hover .img__description {
     transform: translateY(0);
+    background-color: #FFFFFF;
 }
