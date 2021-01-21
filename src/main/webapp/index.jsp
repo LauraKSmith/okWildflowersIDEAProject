@@ -253,7 +253,7 @@
     <br>
     <!-- <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> ----  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
-    <div id="tempgraph"><img src="img/beechart3.svg" height="80%" width="100%"></div>
+    <div id="tempgraph"><img src="img/beechart4.svg" height="80%" width="100%"></div>
 
 
     <!-- start of pollinator explination-->
@@ -326,87 +326,7 @@
 
     <!--  USDA zones map start -->
 
-    <div id="map"></div>
 
-    <script type="text/javascript">
-        var mapboxTiles = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-            attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
-        });
-
-        var USDAmap = L.map('map')
-            .addLayer(mapboxTiles)
-            .setView([39.57987951459858, -97.68086206250001], 5);
-
-        function getColor(d) {
-            if (d >= 10 ) {
-                return '#e5f5e0'
-            } else if (d >= 9) {
-                return  '#c7e9c0'
-            } else if (d >= 8) {
-                return  '#a1d99b'
-            } else if (d >= 7) {
-                return  '#74c476';
-            } else if (d >= 6) {
-                return  '#41ab5d';
-            } else if (d >= 5) {
-                return  '#238b45';
-            } else if (d >= 4) {
-                return '#006d2c';
-            } else if (d >= 3) {
-                return  '#00441b';
-            } else if (d >= 2) {
-                return  '#00441b';
-            } else {
-                return   '#f7fcf5';
-            }
-
-        }
-
-        $.ajax({
-            dataType: "json",
-            url: "hdzones.geo.json",
-            success: function(data) {
-                $(data.features).each(function(key, data) {
-                    var geoJson = L.geoJson(data, {
-                        onEachFeature: function(feature, layer) {
-                            layer.setStyle({fillColor: getColor(feature.properties.Id), color: 'white', fillOpacity: 0.7});
-                            layer.on('mouseover', function() {
-                                info.update(feature.properties);
-                            })
-                            layer.on('mouseout', function() {
-                                info.update();
-                            })
-                        }
-
-                    }).addTo(USDAmap);
-
-                }).error(function() {});
-            }
-
-        });
-        //https://github.com/kgjenkins/ophz - usda geojson in full
-        //https://github.com/calvinmetcalf/leaflet-ajax - ajax method used
-        //https://leafletjs.com/examples/choropleth/   popup & styling method
-        var info = L.control();
-
-        info.onAdd = function (map) {
-            this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-            this.update();
-            return this._div;
-        };
-
-        // method that we will use to update the control based on feature properties passed
-        info.update = function (props) {
-            this._div.innerHTML = '<h4>Pollinator Plant Recommendations</h4>' +  (props ?
-                '<b>' + 'USDA Zone ' + props.Id + '</b><br />' +
-                '<b>Trees: </b>' + props.Trees + '</b><br />' +
-                '<b>Flowers: </b>' + props.Flowers + '</b><br />' +
-                '<b>Herbs: </b>' + props.Herbs + '</b><br />' +
-                '<b>Shrubs: </b>' + props.Shrubs
-                : 'Hover over a climate zone');
-        };
-
-        info.addTo(USDAmap);
 
     <!--  USDA zones map end -->
 
