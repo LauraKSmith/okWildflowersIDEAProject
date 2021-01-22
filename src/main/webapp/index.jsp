@@ -326,15 +326,6 @@
 
     <!--  USDA zones map start -->
 
-    <div id="map"></div>
-        var mapboxTiles = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-            attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
-        });
-
-        var USDAmap = L.map('map')
-            .addLayer(mapboxTiles)
-            .setView([39.57987951459858, -97.68086206250001], 5);
-
  
 
 
