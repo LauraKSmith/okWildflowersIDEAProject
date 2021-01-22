@@ -364,7 +364,7 @@
 
         $.ajax({
             dataType: "json",
-            url: "hdzones.geo.json",
+            url: "C:\\Users\\Laura\\Documents\\GitHub\\okWildflowersIDEAProjects\\hdzones.geo.json",
             success: function(data) {
                 $(data.features).each(function(key, data) {
                     var geoJson = L.geoJson(data, {
