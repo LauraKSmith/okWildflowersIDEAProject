@@ -13,7 +13,7 @@ html,body{
     font-variant: normal;
     font-weight: 700;
     color: black;
-    height: auto;
+    height: 80px;
     padding: 45px;
     float: none;
 }
@@ -261,10 +261,10 @@ form {
     font-variant: normal;
     font-weight: 700;
     color: black;
-    height: auto;
+    height: 30px;
     padding: 45px;
     float: none;
-    background: #ea9d3e;
+    background: #ddceb7;
 }
 
 #calendar {
