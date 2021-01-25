@@ -261,7 +261,7 @@ form {
     font-variant: normal;
     font-weight: 700;
     color: black;
-    height: 30px;
+    height: 25px;
     padding: 45px;
     float: none;
     background: #ddceb7;
@@ -269,4 +269,10 @@ form {
 
 #calendar {
   padding: 50px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
 }
