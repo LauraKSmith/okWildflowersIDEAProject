@@ -266,3 +266,7 @@ form {
     float: none;
     background: #ea9d3e;
 }
+
+#calendar {
+  padding: 50px;
+}
