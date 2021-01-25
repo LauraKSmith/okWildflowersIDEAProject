@@ -78,7 +78,7 @@
 
 </head>
 <body>
-<nav class="navbar navbar-inverse navbar-fixed-top" id="title">
+<nav class="title" id="title">
     <a class="title a">The Happy Hive Project</a>
 </nav>
 
