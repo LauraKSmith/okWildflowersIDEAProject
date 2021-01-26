@@ -416,7 +416,7 @@
     <!-- end of plant calendar -->
     <!-- hyperlinked images-->
     <div id="source"></div>
-    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p>
+    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p></div>
     <br>
     <br>
     <a href="https://www.pollinator.org/guides"> <img src="img/pollinatorpartnership.png" height="100px" width="200px"></img></a>
@@ -427,7 +427,7 @@
     <a <img src="img/honeybutton1.svg" height="200px" width="200px"></img></a>
     <a href="https://beeinformed.org/citizen-science/loss-and-management-survey/"> <img src="img/beeinformed.png" height="150px" width="150px"></img></a>
     <!-- end of hyperlinked images-->
-    </div>
+
 
 </section>
 <!--     Footer       -->
