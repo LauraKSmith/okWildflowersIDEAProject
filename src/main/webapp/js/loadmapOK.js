@@ -51,10 +51,8 @@ function mapInitialization(observations) {
             common = common.replace(/_/g, '\'');
         }
         var contentStr = '<h4>What Did You Plant?</h4><hr>';
-        contentStr += '<p><b>' + 'Common name' + ':</b>&nbsp' + common + '</p>';
-        contentStr += '<p><b>' + 'Scientific name' + ':</b>&nbsp' + e['scientific_name'] + '</p>';
-        contentStr += '<p><b>' + 'County' + ':</b>&nbsp' + e['county'] + '</p>';
-        contentStr += '<p><b>' + 'Biome' + ':</b>&nbsp' + e['biome'] + '</p>';
+        contentStr += '<p><b>' + 'Plant name' + ':</b>&nbsp' + common + '</p>';
+        contentStr += '<p><b>' + 'Plant type' + ':</b>&nbsp' + e['scientific_name'] + '</p>';
         contentStr += '<p><b>' + 'Habitat description' + ':</b>&nbsp' + e['habitat'] + '</p>';
         contentStr += '<p><b>' + 'Recorded by' + ':</b>&nbsp' + e['recorded_by'] + '</p>';
         contentStr += '<p><b>' + 'Date' + ':</b>&nbsp' + e['date'] + '</p>';
