@@ -325,7 +325,7 @@
 
   <!-- <div id="calendar"><img src="img/calendar2.png" height="50%" width="50%"></div> -->
     <div style="position: relative; padding-bottom: 99%; padding-top: 0; height: 0;"><iframe style="position: absolute;
-    top: 0; left: 0; width: 30%; height: 30%; border-width:0px; max-width:100%; overflow-y:auto;" width="30%" height="30%" src="https://interactive-img.com/view?id=23832&iframe=true"></iframe></div>
+    top: 0; left: 0; width: 100%; height: 100%; border-width:0px; max-width:100%; overflow-y:auto;" width="30%" height="30%" src="https://interactive-img.com/view?id=23832&iframe=true"></iframe></div>
 
     <!--  USDA zones map start -->
 
