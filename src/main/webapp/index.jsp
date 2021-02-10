@@ -324,8 +324,8 @@
         the right climate zone. </p></div>
 
     <div id="calendar"><img src="img/calendar2.png" height="50%" width="50%"></div>
-    <div class="iactiveImg" data-ii="23694"></div><script src="https://interactive-img.com/js/include.js"></script>
-    <div class="iactiveImg" data-ii="23821"></div><script src="https://interactive-img.com/js/include.js"></script>
+    <div class="iactiveImg" data-ii="23694"></div><script src="https://interactive-img.com/js/include.js" height="50%" width="50%"></script>
+
 
     <!--  USDA zones map start -->
 
