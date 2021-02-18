@@ -121,7 +121,7 @@
                                 <option value='Shrub'>Shrub</option>
                                 <option value='Flower'>Flower</option>
                                 <option value='Tree'>Tree</option>
-                                <option value='Ground Cover'>GroundCover</option>
+                                <option value='Clover'>Clover</option>
                                 <option value='Ivy'>Ivy</option>
                                 <option value='Other'>Other</option>
 
