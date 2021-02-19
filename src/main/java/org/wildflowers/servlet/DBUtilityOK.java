@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 public class DBUtilityOK {
     private static final String Driver = "org.postgresql.Driver";
     private static final Logger logger = Logger.getLogger(DBUtilityOK.class.getName());
-    
+
     private static final String ConnUrl = "jdbc:postgresql://ec2-18-235-20-228.compute-1.amazonaws.com:5432/d5lucrbuppa2h7";
     private static final String Username = "zpxhyiszlihrzk";
     private static final String Password = "d8071070280d011e26ffa689ac4946852dd0a76c1f3887361653b8f55f4055da";
