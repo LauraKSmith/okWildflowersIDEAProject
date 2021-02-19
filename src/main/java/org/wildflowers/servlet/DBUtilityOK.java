@@ -1,4 +1,4 @@
-package org.wildflowers.servlet;
+package org.pollinator.servlet;
 
 import java.sql.*;
 import java.util.logging.Logger;
