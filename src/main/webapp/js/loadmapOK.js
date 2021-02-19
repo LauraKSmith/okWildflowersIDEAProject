@@ -67,65 +67,26 @@ function mapInitialization(observations) {
             icon = {
                 url: 'img/purpleflower.png',
                 scaledSize: new google.maps.Size(25, 30),}
-        } else if (genus == 'Achillea') {
+        } else if (genus == 'Clover') {
             icon = {
                 url: 'img/clover2.png',
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             }
-        } else if (genus == 'Aphanostephus') {
-            icon = {
-                url: 'img/clover2.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
-            }
-        } else if (genus == 'Asclepias') {
-            icon = {
-                url: 'img/tree.png',
-                scaledSize: new google.maps.Size(20, 30), // scaled size
-            }
-        } else if (genus == 'Castilleja') {
-            icon = {
-                url: 'img/bush.png',
-                scaledSize: new google.maps.Size(30, 25), // scaled size
-            }
-        } else if (genus == 'Coreopsis') {
+        } else if (genus == 'Shrub') {
             icon = {
                 url: 'img/shrub.png',
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             }
-        } else if (genus == 'Echinacea') {
-            icon = {
-                url: 'img/purpleflower.png',
-                scaledSize: new google.maps.Size(25, 30), // scaled size
-            }
-        } else if (genus == 'Gaillardia') {
+        } else if (genus == 'Tree') {
             icon = {
                 url: 'img/tree.png',
                 scaledSize: new google.maps.Size(20, 30), // scaled size
             }
-        } else if (genus == 'Phlox') {
-            icon = {
-                url: 'img/bush.png',
-                scaledSize: new google.maps.Size(30, 25), // scaled size
-            }
-
-        } else if (genus == 'Rudbeckia') {
-            icon = {
-                url: 'img/shrub.png',
-                scaledSize: new google.maps.Size(30, 30), // scaled size
-            }
-
-        } else if (genus == 'Silene') {
+        } else if (genus == 'Ivy') {
             icon = {
                 url: 'img/clover2.png',
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             }
-
-        } else if (genus == 'Trifolium') {
-            icon = {
-                url: 'img/purpleflower.png',
-                scaledSize: new google.maps.Size(25, 30), // scaled size
-            }
-
         } else if (genus == 'Other') {
             icon = {
                 url: 'img/purpleflower.png',
