@@ -116,7 +116,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         dbutil.modifyDB(sql);
 
         // record report_id
-        ResultSet res_3 = dbutil.queryDB("select last_value from wildflowers_id_seq");
+        ResultSet res_3 = dbutil.queryDB("select last_value from pollinator_id_seq");
         res_3.next();
         report_id = res_3.getInt(1);
 
