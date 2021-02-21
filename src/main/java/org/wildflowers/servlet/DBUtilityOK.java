@@ -1,7 +1,7 @@
-/*package org.wildflowers.servlet;
-*/
+package org.wildflowers.servlet;
 
-package org.pollinator.servlet;
+
+/*package org.pollinator.servlet; */
 
 
 import java.sql.*;
