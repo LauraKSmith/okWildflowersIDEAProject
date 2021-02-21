@@ -23,7 +23,7 @@ import org.wildflowers.servlet.DBUtilityOK;
 public class HttpServlet extends javax.servlet.http.HttpServlet {
     private static final long serialVersionUID = 1L;
 
-     System.out.println("httpservlet, ");
+    
     /**
      // @see javax.servlet.http.HttpServlet#javax.servlet.http.HttpServlet()
      */
