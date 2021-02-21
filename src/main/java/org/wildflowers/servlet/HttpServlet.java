@@ -64,11 +64,13 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         else if (tab_id.equals("1")) {
             System.out.println("A query is submitted!");
             try {
+                System.out.println("httpServlet, ready to call query observation");
                 queryObservation(request, response);
             } catch (JSONException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             } catch (SQLException e) {
+                System.out.println("httpServlet, query observation exception");
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
@@ -80,6 +82,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         DBUtilityOK dbutil = new DBUtilityOK();
         String sql;
 
+        System.out.println("httpServlet, create observation");
         // 3. create report
         int report_id = 0;
         String county = request.getParameter("county");
@@ -526,6 +529,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 
         DBUtilityOK dbutil = new DBUtilityOK();
         System.out.println("httpservlet, in observation helper");
+        System.out.println("httpServlet, in observation helper SQL: " + sql);
         ResultSet res = dbutil.queryDB(sql);
         while (res.next()) {
             // add to response
