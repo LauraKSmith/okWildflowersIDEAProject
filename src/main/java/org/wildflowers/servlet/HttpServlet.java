@@ -105,7 +105,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         if (habitat != null) {habitat = "'" + habitat + "'";}
         if (recorded_by != null) {recorded_by = "'" + recorded_by + "'";}
         if (date != null) {date = "'" + date + "'";}
-//        if (biome != null) {biome = "'" + biome + "'";}
+        if (biome != null) {biome = "'" + biome + "'";}
 
         System.out.println(biome);
 
@@ -116,7 +116,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         dbutil.modifyDB(sql);
 
         // record report_id
-        ResultSet res_3 = dbutil.queryDB("select last_value from pollinator_id_seq");
+        ResultSet res_3 = dbutil.queryDB("select last_value from wildflowers_id_seq");
         res_3.next();
         report_id = res_3.getInt(1);
 
