@@ -17,7 +17,7 @@ function showAllObservations() {
             mapInitialization(observations);
         },
         error: function(xhr, status, error) {
-            alert("An AJAX error occured: " + status + "\nError: " + error);
+            alert("An AJAX error occured: " + status + "\nError:  " + error);
         }
     });
 }

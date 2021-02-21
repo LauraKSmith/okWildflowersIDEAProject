@@ -23,6 +23,7 @@ import org.wildflowers.servlet.DBUtilityOK;
 public class HttpServlet extends javax.servlet.http.HttpServlet {
     private static final long serialVersionUID = 1L;
 
+     System.out.println("httpservlet, ");
     /**
      // @see javax.servlet.http.HttpServlet#javax.servlet.http.HttpServlet()
      */
@@ -43,6 +44,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
      */
     protected void doPost(HttpServletRequest request, HttpServletResponse
             response) throws ServletException, IOException {
+        System.out.println("httpservlet, in doPost");
         response.setContentType("application/json");
         response.setCharacterEncoding("UTF-8");
 
@@ -131,6 +133,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             response) throws JSONException, SQLException, IOException {
         //create an empty JSON array to pass into the query helper
         JSONArray list = new JSONArray();
+        System.out.println("httpservlet, in query Observation");
         String sql = "select id, habitat, common_name, biome, recorded_by, county, date, genus, " +
                 "scientific_name, ST_X(geom) as " +
                 "longitude, ST_Y(geom) as latitude from wildflowers";
@@ -522,7 +525,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
     private void queryObservationHelper(String sql, JSONArray list) throws SQLException {
 
         DBUtilityOK dbutil = new DBUtilityOK();
-
+        System.out.println("httpservlet, in observation helper");
         ResultSet res = dbutil.queryDB(sql);
         while (res.next()) {
             // add to response
