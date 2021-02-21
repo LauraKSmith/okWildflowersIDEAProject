@@ -109,7 +109,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 
         System.out.println(biome);
 
-        sql = "insert into wildflowers (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, type, geom)" +
+        sql = "insert into pollinator (county, genus, scientific_name, common_name, habitat, recorded_by, date, biome, type, geom)" +
                 " values (" + county + "," + genus + "," + scientific_name
                 + "," + common_name + "," + habitat + "," + recorded_by + "," + date + "," + biome +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
@@ -139,7 +139,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         System.out.println("httpservlet, in query Observation");
         String sql = "select id, habitat, common_name, biome, recorded_by, county, date, genus, " +
                 "scientific_name, ST_X(geom) as " +
-                "longitude, ST_Y(geom) as latitude from wildflowers";
+                "longitude, ST_Y(geom) as latitude from pollinator";
         String genusParam = request.getParameter("genus");
         String commonParam = request.getParameter("common");
         String countyParam = request.getParameter("county");
