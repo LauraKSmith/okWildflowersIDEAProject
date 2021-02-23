@@ -323,11 +323,11 @@
         bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 
-   <div id="calendar"><img src="img/calendar2.png" height="50%" width="50%"></div>
+   <!-- <div id="calendar"><img src="img/calendar2.png" height="50%" width="50%"></div> -->
 
     <!-- start of html5 calender-->
 
-    <img id="Image-Maps-Com-image-maps-2021-02-22-223407" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar6.png" border="0" width="50%" height="50%" orgWidth="50%" orgHeight="50%" usemap="#image-maps-2021-02-22-223407" alt="" />
+    <img id="Image-Maps-Com-image-maps-2021-02-22-223407" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar6.png" border="0" width="2075" height="2009" orgWidth="2075" orgHeight="2009" usemap="#image-maps-2021-02-22-223407" alt="" />
     <map name="image-maps-2021-02-22-223407" id="ImageMapsCom-image-maps-2021-02-22-223407">
         <area shape="rect" coords="2073,2007,2075,2009" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
         <area  alt="" title="Buy Winter Heather" href="https://www.amazon.com/s?k=winter+heather+seeds&ref=nb_sb_noss" shape="poly" coords="1522,86,1498,81,1481,91,1482,124,1492,148,1564,193,1610,225,1628,239,1655,262,1746,348,1791,399,1820,447,1849,474,1872,481,1888,470,1894,448,1891,420,1732,234,2013,241" style="outline:none;" target="_self"     />
