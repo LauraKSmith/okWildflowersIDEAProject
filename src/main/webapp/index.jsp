@@ -323,7 +323,7 @@
         bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 
-   <div id="calendar"><img src="img/calender7.png" height="100%" width="100%"></div>
+   <div id="calendar"><img src="img/calendar7.png" height="100%" width="100%"></div>
 
     <!-- start of html5 calender-->
 
