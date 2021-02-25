@@ -136,11 +136,12 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             {
                 common_name = "'" + common_name + "'";
             }
-        /*
+
         if (habitat != null)
             {
                 habitat = "'" + habitat + "'";
             }
+        /*
         if (recorded_by != null)
             {
                 recorded_by = "'" + recorded_by + "'";
