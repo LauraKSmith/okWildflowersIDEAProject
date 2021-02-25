@@ -171,7 +171,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
          */
 
         sql = "insert into pollinator (common_name, habitat, recorded_by, date, geom)" +
-                " values (" + common_name + "," + habitat + "," + recorded_by + "," + date + "," +
+                " values (" + common_name + "," + habitat + "," + recorded_by + "," + date +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
         dbutil.modifyDB(sql);
         System.out.println("SQL: " + sql);
