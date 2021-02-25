@@ -96,6 +96,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         String habitat = request.getParameter("habitat");
         String recorded_by = request.getParameter("recorded_by");
         String type = request.getParameter("type");
+        System.out.println("common name: " + common_name + ", genus: " + genus + ", Recorded by: " + recorded_by);
 
         if (county != null) {county = "'" + county + "'";}
         if (genus != null) {genus = "'" + genus + "'";}
@@ -114,6 +115,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
                 + "," + common_name + "," + habitat + "," + recorded_by + "," + date + "," + biome +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
         dbutil.modifyDB(sql);
+        System.out.println("SQL: " + sql);
 
         // record report_id
         ResultSet res_3 = dbutil.queryDB("select last_value from pollinator_id_seq");

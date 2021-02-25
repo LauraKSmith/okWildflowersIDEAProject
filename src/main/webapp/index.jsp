@@ -323,9 +323,9 @@
         bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 
-  <!-- <div id="calendar"><img src="img/calendar9.png"></div> -->
 
-    <!-- start of html5 calender-->
+
+    <!-- start of html5 calender used https://www.image-maps.com/-->
 
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
     <map name="image-maps-2021-02-23-010326" id="ImageMapsCom-image-maps-2021-02-23-010326">
@@ -348,8 +348,6 @@
         <area  alt="" title="Buy Winter Heather" href="https://www.amazon.com/s?k=winter+heather+seeds&ref=nb_sb_noss" shape="poly" coords="676,168,687,181,703,182,707,155,696,136,648,87,630,67,591,32,563,24,538,33,550,57,581,73,621,98" style="outline:none;" target="_self"     />
     </map>
 
-    <!-- <div align="center"; style="position: relative; padding-bottom: 99%; padding-top: 0; height: 0;"><iframe style="position: absolute;
-     top: 0; left: 0; width: 50%; height: 50%; border-width:0px; overflow-y:hidden;" width="100%" height="100%" src="https://interactive-img.com/view?id=23832&iframe=true"></iframe></div> -->
 
     <!--  USDA zones map start -->
 

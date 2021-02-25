@@ -25,9 +25,10 @@ function queryObservation(event) {
 
 function createObservation(event) {
     event.preventDefault(); // stop form from submitting normally
-
+    console.log("In loadform, create observation")
     longitude = place.geometry.location.lng();
     latitude= place.geometry.location.lat();
+    console.log("In loadform, create observation, after lat and lon" + "print lat: " + latitude + "long: " + longitude)
 
     var a = $("#create_observation_form").serializeArray();
     a.push({ name: "tab_id", value: "0" });
