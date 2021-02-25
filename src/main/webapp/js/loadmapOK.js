@@ -52,7 +52,7 @@ function mapInitialization(observations) {
         }
         var contentStr = '<h4>What Did You Plant?</h4><hr>';
         contentStr += '<p><b>' + 'Plant name' + ':</b>&nbsp' + common + '</p>';
-        contentStr += '<p><b>' + 'Plant type' + ':</b>&nbsp' + e['scientific_name'] + '</p>';
+        contentStr += '<p><b>' + 'Plant type' + ':</b>&nbsp' + e['genus'] + '</p>';
         contentStr += '<p><b>' + 'Habitat description' + ':</b>&nbsp' + e['habitat'] + '</p>';
         contentStr += '<p><b>' + 'Recorded by' + ':</b>&nbsp' + e['recorded_by'] + '</p>';
         contentStr += '<p><b>' + 'Date' + ':</b>&nbsp' + e['date'] + '</p>';

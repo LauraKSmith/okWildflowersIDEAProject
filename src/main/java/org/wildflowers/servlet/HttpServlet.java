@@ -118,10 +118,12 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             {
                 county = "'" + county + "'";
             }
+            */
         if (genus != null)
             {
                 genus = "'" + genus + "'";
             }
+        /*
         if (type != null)
             {
                 type = "'" + type + "'";
@@ -171,8 +173,8 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 2021-02-25T02:21:11.896512+00:00 app[web.1]: httpServlet, create observation habitat: Windowbox
          */
 
-        sql = "insert into pollinator (common_name, habitat, recorded_by, date, geom)" +
-                " values (" + common_name + "," + habitat + "," + recorded_by + "," + date +
+        sql = "insert into pollinator (genus, common_name, habitat, recorded_by, date, geom)" +
+                " values (" + genus + "," + common_name + "," + habitat + "," + recorded_by + "," + date +
                 ", ST_GeomFromText('POINT(" + lon + " " + lat + ")', 4326))";
         dbutil.modifyDB(sql);
         System.out.println("SQL: " + sql);
