@@ -35,7 +35,7 @@ function createObservation(event) {
     a.push({name: "longitude", value: longitude});
     a.push({name: "latitude", value: latitude});
     a = a.filter(function(item){
-        console.log(item);
+        console.log(" item: " + item);
         return item.value != '';});
     $.ajax({
         url: 'HttpServlet',

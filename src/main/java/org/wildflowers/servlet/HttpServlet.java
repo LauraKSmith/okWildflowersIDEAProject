@@ -79,34 +79,81 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
 
     private void createObservation(HttpServletRequest request, HttpServletResponse
             response) throws SQLException, IOException {
+        System.out.println("httpServlet, create observation");
+
         DBUtilityOK dbutil = new DBUtilityOK();
         String sql;
 
-        System.out.println("httpServlet, create observation");
+        System.out.println("httpServlet, create observation 2");
         // 3. create report
         int report_id = 0;
         String county = request.getParameter("county");
         String genus = request.getParameter("genus");
+        System.out.println("httpServlet, create observation genus: " + genus);
+
         String lon = request.getParameter("longitude");
+        System.out.println("httpServlet, create observation lon: " + lon);
+
         String lat = request.getParameter("latitude");
+        System.out.println("httpServlet, create observation lat: " + lat);
+
         String scientific_name = request.getParameter("scientific_name");
         String biome = request.getParameter("biome");
         String date = request.getParameter("date");
+        System.out.println("httpServlet, create observation date: " + date);
+
         String common_name = request.getParameter("common_name");
+        System.out.println("httpServlet, create observation common name: " + common_name);
+
         String habitat = request.getParameter("habitat");
+        System.out.println("httpServlet, create observation habitat: " + habitat);
+
         String recorded_by = request.getParameter("recorded_by");
+
         String type = request.getParameter("type");
         System.out.println("common name: " + common_name + ", genus: " + genus + ", Recorded by: " + recorded_by);
 
-        if (county != null) {county = "'" + county + "'";}
-        if (genus != null) {genus = "'" + genus + "'";}
-        if (type != null) {type = "'" + type + "'";}
-        if (scientific_name != null) {scientific_name = "'" + scientific_name + "'";}
-        if (common_name != null) {common_name = "'" + common_name + "'";}
-        if (habitat != null) {habitat = "'" + habitat + "'";}
-        if (recorded_by != null) {recorded_by = "'" + recorded_by + "'";}
-        if (date != null) {date = "'" + date + "'";}
-        if (biome != null) {biome = "'" + biome + "'";}
+        /* commented out section on 2/24/2021 for testing
+        if (county != null)
+            {
+                county = "'" + county + "'";
+            }
+        if (genus != null)
+            {
+                genus = "'" + genus + "'";
+            }
+        if (type != null)
+            {
+                type = "'" + type + "'";
+            }
+        if (scientific_name != null)
+            {
+                scientific_name = "'" + scientific_name + "'";
+            }
+
+        if (common_name != null)
+            {
+                common_name = "'" + common_name + "'";
+            }
+
+        if (habitat != null)
+            {
+                habitat = "'" + habitat + "'";
+            }
+        if (recorded_by != null)
+            {
+                recorded_by = "'" + recorded_by + "'";
+            }
+        if (date != null)
+            {
+                date = "'" + date + "'";
+            }
+        if (biome != null)
+            {
+                biome = "'" + biome + "'";
+            }
+
+        */
 
         System.out.println(biome);
 
