@@ -22,6 +22,12 @@ window.onload = function() {
             'Phlox': ['', 'longhair phlox', 'Oklahoma phlox'],
             'Rudbeckia': ['', 'rough coneflower'],
             'Silene': ['', 'sleepy silene'],
+            'Shrub': [''],
+            'Flower': [''],
+            'Clover': [''],
+            'Tree': [''],
+            'Ivy': [''],
+            'Other': [''],
             'Trifolium': ['', 'buffalo clover', 'crimson clover', 'reversed clover', 'white clover'],
             'Trillium':	['', 'tapertip wakerobin']
         },

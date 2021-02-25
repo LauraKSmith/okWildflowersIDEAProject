@@ -162,16 +162,7 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
         */
 
         System.out.println(biome);
-
-        /*
-
-        httpServlet, create observation genus: null
-2021-02-25T02:21:11.896283+00:00 app[web.1]: httpServlet, create observation lon: -97.45746899999999
-2021-02-25T02:21:11.896325+00:00 app[web.1]: httpServlet, create observation lat: 35.210473
-2021-02-25T02:21:11.896418+00:00 app[web.1]: httpServlet, create observation date: 02/24/2021
-2021-02-25T02:21:11.896464+00:00 app[web.1]: httpServlet, create observation common name: Milkweed
-2021-02-25T02:21:11.896512+00:00 app[web.1]: httpServlet, create observation habitat: Windowbox
-         */
+        
 
         sql = "insert into pollinator (genus, common_name, habitat, recorded_by, date, geom)" +
                 " values (" + genus + "," + common_name + "," + habitat + "," + recorded_by + "," + date +
