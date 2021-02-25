@@ -141,11 +141,12 @@ public class HttpServlet extends javax.servlet.http.HttpServlet {
             {
                 habitat = "'" + habitat + "'";
             }
-        /*
+
         if (recorded_by != null)
             {
                 recorded_by = "'" + recorded_by + "'";
             }
+        /*
         if (date != null)
             {
                 date = "'" + date + "'";
