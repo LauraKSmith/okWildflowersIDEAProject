@@ -442,7 +442,7 @@
     <div id="classactivity"></div>
 
     <a href="/img/activity.pdf" download>
-        <img src="img/activity2.png" height="80%" width="80% alt="downloadButton">
+        <img src="img/activity2.png" height="100%" width="100% alt="downloadButton">
     </a>
     <!-- hyperlinked images-->
     <div id="source"></div>
