@@ -441,8 +441,8 @@
 
     <div id="classactivity"></div>
 
-    <a href="/img/activity.pdf.pdf" download>
-        <img src="img/pollinatorpartnership.png" alt="downloadButton">
+    <a href="/img/activity.pdf" download>
+        <img src="img/classactivity.svg" alt="downloadButton">
     </a>
     <!-- hyperlinked images-->
     <div id="source"></div>
