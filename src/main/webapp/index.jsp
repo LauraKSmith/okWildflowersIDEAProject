@@ -439,8 +439,10 @@
 
     <!-- end of plant calendar -->
 
-    <a href="/img/activity2.png" download>
-        <img src="img/classactivity.svg" alt="downloadButton">
+    <div id="classactivity"></div>
+
+    <a href="/img/activity.pdf" download>
+        <img src="img/activity2.png" alt="downloadButton">
     </a>
     <!-- hyperlinked images-->
     <div id="source"></div>
