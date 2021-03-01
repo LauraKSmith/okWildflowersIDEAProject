@@ -438,6 +438,12 @@
     <!--  USDA zones map end -->
 
     <!-- end of plant calendar -->
+
+    <div id="classactivity"></div>
+
+    <a href="/img/activity.pdf.pdf" download>
+        <img src="img/pollinatorpartnership.png" alt="downloadButton">
+    </a>
     <!-- hyperlinked images-->
     <div id="source"></div>
     <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p></div>
