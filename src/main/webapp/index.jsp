@@ -150,21 +150,7 @@
                         <div><label>Date of observation&nbsp</label><input class="form-control" placeholder="mm/dd/yyyy" name="date" autocomplete="off"></div>
 
                         <div>
-                            <!--
-                            <label>Type&nbsp</label>
 
-
-                              <select class="form-control" name="type">
-                                <option value=''>Select a plant type</option>
-                                <option value='Herb'>Herb</option>
-                                <option value='Flower'>Flower</option>
-                                <option value='Tree'>Tree</option>
-                                <option value='GroundCover'>GroundCover</option>
-                                <option value='Other'>Other</option>
-
-                            </select>
-
-                             -->
                             <div><label>Common name&nbsp</label><input class="form-control" placeholder="Common name (required)" name="common_name" required></div>
                             <div><label>Scientific name&nbsp</label><input class="form-control" placeholder="Scientific name" name="scientific_name"></div>
                             <div><label>Habitat&nbsp</label><input class="form-control" id="habitat" placeholder="Description (max 500 characters)" name="habitat" maxlength="500"></div>
