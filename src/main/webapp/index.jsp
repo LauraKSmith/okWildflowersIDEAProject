@@ -116,7 +116,7 @@
                             <label>Plant Type&nbsp</label>
 
 
-                              <select class="form-control" name="genus">
+                              <select class="form-control" name="type">
                                 <option value=''>Select a plant type</option>
                                 <option value='Shrub'>Shrub</option>
                                 <option value='Flower'>Flower</option>
