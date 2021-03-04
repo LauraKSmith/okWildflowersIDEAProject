@@ -184,9 +184,15 @@
 
 
 <section id="bottom">
-    <p>Here is where I will add charts and graphs. I will also put an infographic here. I want a hexigon bar chart that looks like honey combs. If the DB doesnt swap out add a leaflet map of
-    ecoregions and what to plant in each. toggle buttons for plant types ie trees, shrubs, flowers, ect. Also make an chart about the types and varity of plants that are reliant on bees. Create hover boxes
-    for the icons that explain the pollination proccess. </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
     <br>
 
     <!-- start of liquid gauges -->
@@ -312,6 +318,7 @@
 
 
     <!-- start of html5 calender used https://www.image-maps.com/-->
+    <p>Bloom Year Round</p>
 
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
     <map name="image-maps-2021-02-23-010326" id="ImageMapsCom-image-maps-2021-02-23-010326">
