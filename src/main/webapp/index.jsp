@@ -338,7 +338,7 @@
     <!-- start of html5 calender used https://www.image-maps.com/-->
     <p>Bloom Year Round</p>
 
-<div id="bloom"
+<div id="bloom"></div>
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
     <map name="image-maps-2021-02-23-010326" id="ImageMapsCom-image-maps-2021-02-23-010326">
         <area shape="rect" coords="772,747,774,749" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
@@ -359,7 +359,6 @@
         <area  alt="" title="Buy Monkshood" href="https://www.amazon.com/s?k=monks+hood+seeds&ref=nb_sb_noss_2" shape="poly" coords="636,176,654,196,666,191,666,180,650,159,636,138,608,114,577,92,552,73,518,54,486,43,456,33,414,28,384,28,386,47,430,55,468,60,519,79,563,103,602,137" style="outline:none;" target="_self"     />
         <area  alt="" title="Buy Winter Heather" href="https://www.amazon.com/s?k=winter+heather+seeds&ref=nb_sb_noss" shape="poly" coords="676,168,687,181,703,182,707,155,696,136,648,87,630,67,591,32,563,24,538,33,550,57,581,73,621,98" style="outline:none;" target="_self"     />
     </map>
-    </div>
 
 
     <!--  USDA zones map start -->
