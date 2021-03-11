@@ -308,10 +308,28 @@
 
     <!-- start of plant calendar -->
     <div id="resources">
-    <p>Understanding how bees are struggling to find resources and how pollination works leads us to the conclusion that the best way to help bees thrive is to plant
-        a pollinator garden. Knowing that bees must visit up to 500 of the same type of flower per trip help us narrow down the plants that would be most beneficial.
-        Ground covers like clover or trees provide ample pollen for bees to work quickly and effectively. That said knowing what types of plant work best for your
-        climate, house type, and in each season can be difficult. Providing food for bees year-round even when they are not particularly active is essential as most
+                <p>
+                    Anyone can build a pollinators garden. From living in an apartment in the city to living on 60 acres of lands in the country
+                    there are many options for building a garden that will benefit your local bees. Bees will travel up to 5 miles to find food.
+                    Each trip a bee takes to find pollen it only visit one type of plant. While a bee can travel far and wide, planting with this
+                    in mind will make it easier for a bee colony to survive. Bees love trees because in a small area of land there are multiple types
+                    of the same bloom, one tree is equivalent to a football field full of a mixed variety of flowers. While humans may picture bees
+                    flying from flower to flower, this action expends significantly more energy than having a condensed area of one type of plant.
+                    For this reason people who are planting a pollinator garden should focus on plants that are densely packed with blooms in a small
+                    area, such as trees, clover yards, and shrubs. If you only have a little room to grow such as a window box or are working on your
+                    flower garden this is not a problem. Bees love flowers, and it is easy to help them by planting many of the same type of flower
+                    all over your yard so they can make a short trip.
+                </p>
+        <br>
+        <p>
+            When it comes to the blooms you pick, bees love some types of flowers more than others. Bees are best able to see the color purple, so they
+            particularly love to visit flowers in this color like borage, clover, coneflowers, and lavender. They do not see red well so avoid flowers
+            that bloom in this color. Bees prefer large blooms where bees can easily reach the pollen that allows for them to become covered in pollen.
+            Flower that are long and tubular like trumpet flowers, petunias, and lupines are hard to reach the pollen and are usually pollinated by humming
+            birds because of their long beaks.
+        </p>
+        <br>
+    <p>Providing food for bees year-round even when they are not particularly active is essential as most
         bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 

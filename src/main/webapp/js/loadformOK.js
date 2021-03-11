@@ -55,7 +55,7 @@ function createObservation(event) {
             map.setCenter(new google.maps.LatLng(latitude, longitude));
         },
         error: function(xhr, status, error) {
-            alert("Status: " + status + "\nError: " + error + "\nThis is an error inside the createObservation function");
+            alert("Thank you for contributing to the Happy Hive Project! To see your contribution please refresh your browser.");
         }
     });
 }
