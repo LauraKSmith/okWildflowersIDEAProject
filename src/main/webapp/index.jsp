@@ -309,7 +309,7 @@
     <!-- start of plant calendar -->
     <div id="resources">
                 <p>
-                    Anyone can build a pollinators garden. From living in an apartment in the city to living on 60 acres of lands in the country
+                    Anyone can build a pollinator garden. From living in an apartment in the city to living on 60 acres of lands in the country
                     there are many options for building a garden that will benefit your local bees. Bees will travel up to 5 miles to find food.
                     Each trip a bee takes to find pollen it only visit one type of plant. While a bee can travel far and wide, planting with this
                     in mind will make it easier for a bee colony to survive. Bees love trees because in a small area of land there are multiple types
@@ -338,6 +338,7 @@
     <!-- start of html5 calender used https://www.image-maps.com/-->
     <p>Bloom Year Round</p>
 
+<div id="bloom"</div>
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
     <map name="image-maps-2021-02-23-010326" id="ImageMapsCom-image-maps-2021-02-23-010326">
         <area shape="rect" coords="772,747,774,749" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
