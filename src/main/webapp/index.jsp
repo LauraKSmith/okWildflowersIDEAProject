@@ -306,6 +306,8 @@
 
     <!-- end of pollinator explination-->
 
+
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
     <!-- start of plant calendar -->
     <div id="resources">
                 <p>
@@ -333,7 +335,7 @@
         bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 
-
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <!-- start of html5 calender used https://www.image-maps.com/-->
     <p>Bloom Year Round</p>
