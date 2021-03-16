@@ -337,6 +337,11 @@
 
     <!-- start of html5 calender used https://www.image-maps.com/-->
     <p>Bloom Year Round</p>
+    <p>The majority of beehives that fail do so in the winter when it is hard for them to find resources or pollen.
+        Bee activity naturally decreases in the winter months, but they still need some resources to survive.
+        This Bloom Year-Round calendar can help you plant a garden that will sustain bees year round environment permitting.
+        These plants were chosen for their blooming longevity and hardiness. Each section of the calendar will take you purchase
+        seeds to start your own pollinator garden, just make sure to verify they are properly zoned to grow in your region. </p>
 
 <div id="bloom"></div>
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
