@@ -247,6 +247,8 @@
 
     <div id="tempgraph"><img src="img/beechart4.png" height="80%" width="100%"></div>
 
+    <div id="pollinationtitle"><img src="img/pollinationtitle.png" height="100%" width="100%"></div>
+
 
     <!-- start of pollinator explination-->
     <div class="container">
