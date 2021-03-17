@@ -140,7 +140,7 @@
                     </form>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="80%" width="90%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="79%" width="85%"></div>
 
 
                 </div>
@@ -161,7 +161,7 @@
                         </div>
                         <div class="button_div"><button type="submit" class="btn btn-info" id="report_submit_btn">Submit</button></div>
                     </form>
-                    <div id="create_observation"><img src="img/bee.svg" height="80%" width="100%"></div>
+                    <div id="create_observation"><img src="img/bee.svg" height="100%" width="100%"></div>
                 </div>
 
                 <!-- Query Observation Tab Panel: dropdowns are populated by main.js -->
