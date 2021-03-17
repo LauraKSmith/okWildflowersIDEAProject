@@ -140,7 +140,7 @@
                     </form>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="79%" width="85%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="79%" width="79%"></div>
 
 
                 </div>
@@ -375,6 +375,17 @@
 
 
     <!--  USDA zones map start -->
+
+
+    <p>
+        Where and when certain plants grow varies based on where they are planted. This is a tricky science based upon climate,
+        freezing winters, elevation, and general weather conditions. These conditions factor into the minimum winter temperature
+        which determines if a plant can survive in certain weather conditions.   In the US interpreting that information is made
+        simple by the USDA. The USDA produces the Plant Hardiness Zone Map, from zone 1 to 13 the zones produced help gardeners
+        decided on whether a plant is suitable for their garden. Most plants sold in stores and seed packets will say on their
+        package what zones they are recommended for.  By using those zones you can identify your climate zone and see pollinator
+        plants that are recommended for your region.
+    </p>
 
     <div id="map"></div>
 
