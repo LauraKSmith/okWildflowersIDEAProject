@@ -140,7 +140,7 @@
                     </form>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="80%" width="80%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="80%" width="90%"></div>
 
 
                 </div>
@@ -246,6 +246,7 @@
     <!-- <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> ----  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
     <div id="tempgraph"><img src="img/beechart4.png" height="80%" width="100%"></div>
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <div id="pollinationtitle"><img src="img/pollinationtitle.png" height="100%" width="100%"></div>
 
@@ -309,7 +310,7 @@
     <!-- end of pollinator explination-->
 
 
-    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
+
     <!-- start of plant calendar -->
     <div id="resources">
                 <p>
