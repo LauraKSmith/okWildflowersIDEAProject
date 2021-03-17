@@ -246,6 +246,17 @@
     <!-- <p><strong>90%</strong> of bees in some regions have disappeared over the past 15 years.</p> ----  https://www.natgeokids.com/za/discover/animals/insects/honey-bees/ -->
 
     <div id="tempgraph"><img src="img/beechart4.png" height="80%" width="100%"></div>
+
+    <p>With the known bee colony losses we can see that bees need support from their local communities to get by.
+        The continued decline is not associate with colony collapse disorder it is associated with lack of resources. Homogenized grass yards
+        and gardens that are popular in the US don?t allow common resources that bees have relied on for millennia.
+        This is a big loss when you consider yards are the 4th largest grown crop in the United States by land cover.
+        Weed killers remove clovers a common bee food source, flowers are relegated to structured flower beds, and raked leaves in the fall
+        and winter remove areas where many pollinators choose to hibernate. Knowing how much bees rely on these resources racking your leaves
+        to a composting pit in the back of your yard, or providing alternative food will help the bees in your community immensity.
+        On average bees need to visit approximately 500 of the same type of bloom in the same trip, we can help bees by making sure they have access to repetitive bloom types.
+        The easiest way to achieve this is to plant a tree or shrub that has many blooms on one plant or planting a flower garden with many of the same flower. </p>
+
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <div id="pollinationtitle"><img src="img/pollinationtitle.png" height="100%" width="100%"></div>
