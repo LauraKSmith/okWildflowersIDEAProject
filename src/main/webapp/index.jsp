@@ -140,7 +140,7 @@
                     </form>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="79%" width="79%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="80%" width="80%"></div>
 
 
                 </div>
@@ -376,6 +376,9 @@
 
     <!--  USDA zones map start -->
 
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
+
+    <div id="climatetitle"><img src="img/climatetitle.png" height="100%" width="100%"></div>
 
     <p>
         Where and when certain plants grow varies based on where they are planted. This is a tricky science based upon climate,
