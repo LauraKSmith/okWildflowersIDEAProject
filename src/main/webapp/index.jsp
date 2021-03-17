@@ -249,7 +249,7 @@
 
     <p>With the known bee colony losses we can see that bees need support from their local communities to get by.
         The continued decline is not associate with colony collapse disorder it is associated with lack of resources. Homogenized grass yards
-        and gardens that are popular in the US don?t allow common resources that bees have relied on for millennia.
+        and gardens that are popular in the US do not allow common resources that bees have relied on for millennia.
         This is a big loss when you consider yards are the 4th largest grown crop in the United States by land cover.
         Weed killers remove clovers a common bee food source, flowers are relegated to structured flower beds, and raked leaves in the fall
         and winter remove areas where many pollinators choose to hibernate. Knowing how much bees rely on these resources racking your leaves
@@ -346,7 +346,7 @@
         </p>
         <br>
     <p>Providing food for bees year-round even when they are not particularly active is essential as most
-        bee keeps lose most of their colony?s during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
+        bee keeps lose most of their colonys during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
         the right climate zone. </p></div>
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
