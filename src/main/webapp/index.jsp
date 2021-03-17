@@ -140,7 +140,7 @@
                     </form>
                     <br>
                     <br>
-                    <div id="welcomeText"><img src="img/bee.svg" height="90%" width="90%"></div>
+                    <div id="welcomeText"><img src="img/bee.svg" height="80%" width="80%"></div>
 
 
                 </div>
