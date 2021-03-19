@@ -163,7 +163,7 @@ form {
 }
 
 .img__wrap:hover .img__description_layer {
-    position: relative;
+    position: static;
     visibility: visible;
     opacity: 1;
     background-color: #FFFFFF;
@@ -171,6 +171,7 @@ form {
 }
 
 .img__wrap2:hover .img__description_layer {
+    position: fixed;
     visibility: visible;
     opacity: 1;
     background-color: #FFFFFF;
@@ -178,6 +179,7 @@ form {
 }
 
 .img__wrap3:hover .img__description_layer {
+    position: absolute;
     visibility: visible;
     opacity: 1;
     background-color: #FFFFFF;
@@ -185,6 +187,7 @@ form {
 }
 
 .img__wrap4:hover .img__description_layer {
+    position: sticky;
     visibility: visible;
     opacity: 1;
     background-color: #FFFFFF;
