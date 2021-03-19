@@ -195,7 +195,7 @@ form {
 .img__wrap6:hover .img__description_layer {
     visibility: visible;
     opacity: 1;
-    background-color: #EEC33D;
+    background-color: #ea9d3e;
 }
 .img__description {
     transition: .2s;
@@ -205,32 +205,32 @@ form {
 
 .img__wrap:hover .img__description {
       transform: translateY(0);
-      background-color: #EEC33D;
+      background-color: #ea9d3e;
   }
 
 .img__wrap2:hover .img__description {
       transform: translateY(0);
-      background-color: #EEC33D;
+      background-color: #ea9d3e;
   }
 
 .img__wrap3:hover .img__description {
     transform: translateY(0);
-    background-color: #EEC33D;
+    background-color: #ea9d3e;
 }
 
 .img__wrap4:hover .img__description {
     transform: translateY(0);
-    background-color: #EEC33D;
+    background-color: #ea9d3e;
 }
 
 .img__wrap5:hover .img__description {
     transform: translateY(0);
-    background-color: #EEC33D;
+    background-color: #ea9d3e;
 }
 
 .img__wrap6:hover .img__description {
     transform: translateY(0);
-    background-color: #EEC33D;
+    background-color: #ea9d3e;
 }
 
 #map {
