@@ -151,6 +151,7 @@ form {
 .img__description_layer {
     position: absolute;
     background: #FFFFFF;
+    padding-bottom: 50px;
 
     visibility: hidden;
     opacity: 0;
@@ -221,6 +222,7 @@ form {
 .img__wrap2:hover .img__description {
       transform: translateY(0);
       background-color: #ea9d3e;
+    padding-bottom: 50px;
   }
 
 .img__wrap3:hover .img__description {
