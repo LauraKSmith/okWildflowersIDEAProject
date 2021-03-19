@@ -108,43 +108,43 @@ form {
 /* relevant styles */
 .img__wrap {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
 .img__wrap2 {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
 .img__wrap3 {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
 .img__wrap4 {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
 .img__wrap5 {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
 .img__wrap6 {
     position: relative;
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: #FFFFFF;
 }
 
@@ -166,6 +166,7 @@ form {
     visibility: visible;
     opacity: 1;
     background-color: #FFFFFF;
+    width: 300px;
 }
 
 .img__wrap2:hover .img__description_layer {
