@@ -270,7 +270,7 @@
         <div class="row">
             <div class="col-sm-2">
     <div class="img__wrap">
-        <img class="img__img" src="img/pollination1.svg" />
+        <img class="img__img" src="img/pollination11.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
