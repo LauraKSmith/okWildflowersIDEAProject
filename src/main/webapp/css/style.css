@@ -149,9 +149,8 @@ form {
 }
 
 .img__description_layer {
-    position: absolute;
+    
     background: #FFFFFF;
-    padding-bottom: 50px;
 
     visibility: hidden;
     opacity: 0;
