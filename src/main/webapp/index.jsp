@@ -270,7 +270,7 @@
         <div class="row">
             <div class="col-sm-2">
     <div class="img__wrap">
-        <img class="img__img" src="img/pollination1.svg" />
+        <img class="img__img" src="img/pollination11.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
@@ -278,7 +278,7 @@
             </div>
                 <div class="col-sm-2">
     <div class="img__wrap2">
-        <img class="img__img" src="img/pollination2.svg" />
+        <img class="img__img" src="img/pollination21.svg" />
         <div class="img__description_layer">
             <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will visit up to 500 of the same flower to collect enough pollen.
                 The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
@@ -287,7 +287,7 @@
                 </div>
                     <div class="col-sm-2">
     <div class="img__wrap3">
-        <img class="img__img" src="img/pollination3.svg" />
+        <img class="img__img" src="img/pollination31.svg" />
         <div class="img__description_layer">
             <p class="img__description">When the bee visits the next plant they leave behind pollen from the previous plant pollinating the new plant.</p>
         </div>
@@ -295,7 +295,7 @@
                     </div>
                         <div class="col-sm-2">
     <div class="img__wrap4">
-        <img class="img__img" src="img/pollination4.svg" />
+        <img class="img__img" src="img/pollination41.svg" />
         <div class="img__description_layer">
             <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
         </div>
@@ -303,7 +303,7 @@
                         </div>
                             <div class="col-sm-2">
     <div class="img__wrap5">
-        <img class="img__img" src="img/pollination5.svg" />
+        <img class="img__img" src="img/pollination51.svg" />
         <div class="img__description_layer">
             <p class="img__description">Once the bee has procured enough pollen, it returns to its hive where the pollen will be turned into honey.</p>
         </div>
@@ -312,7 +312,7 @@
 
             <div class="col-sm-2">
                 <div class="img__wrap6">
-                    <img class="img__img" src="img/pollination1.svg" />
+                    <img class="img__img" src="img/pollination11.svg" />
                     <div class="img__description_layer">
                         <p class="img__description">After depositing the pollen in the hive the bee will start the process over visiting over 5000 flowers in a day.</p>
                     </div>
