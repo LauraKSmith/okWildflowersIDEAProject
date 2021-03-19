@@ -280,7 +280,7 @@
     <div class="img__wrap2">
         <img class="img__img" src="img/pollination21.svg" />
         <div class="img__description_layer">
-            <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will visit up to 500 of the same flower to collect enough pollen.
+            <p class="img__description">The bee will gather pollen from the plant to take back to hive.
                 The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
         </div>
     </div>
@@ -297,7 +297,7 @@
     <div class="img__wrap4">
         <img class="img__img" src="img/pollination41.svg" />
         <div class="img__description_layer">
-            <p class="img__description">When visiting plants to gather pollen to turn into honey, bees become covered in a dusting of pollen.</p>
+            <p class="img__description">After visiting each plant they add new pollen to themselves increasing the amount they are covered in.</p>
         </div>
     </div>
                         </div>
