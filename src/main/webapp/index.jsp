@@ -329,7 +329,7 @@
     <div id="resources">
                 <p>
                     Anyone can build a pollinator garden. From living in an apartment in the city to living on 60 acres of lands in the country
-                    there are many options for building a garden that will benefit your local bees. Bees will travel up to 5 miles to find food.
+                    there are many options for building a garden that will benefit your local bees. Honey bees will travel up to 5 miles to find food.
                     Each trip a bee takes to find pollen it only visit one type of plant. While a bee can travel far and wide, planting with this
                     in mind will make it easier for a bee colony to survive. Bees love trees because in a small area of land there are multiple types
                     of the same bloom, one tree is equivalent to a football field full of a mixed variety of flowers. While humans may picture bees
@@ -491,6 +491,13 @@
     <!--  USDA zones map end -->
 
     <!-- end of plant calendar -->
+
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
+
+    <div id="knowbees"><img src="img/knowbees.png" height="100%" width="100%"></div>
+
+
+    
 
     <div id="classactivity"></div>
 
