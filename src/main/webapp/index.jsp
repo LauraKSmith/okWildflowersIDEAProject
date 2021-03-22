@@ -495,9 +495,10 @@
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <div id="knowbees"><img src="img/knowbees.png" height="100%" width="100%"></div>
+    <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>
 
 
-    
+
 
     <div id="classactivity"></div>
 
