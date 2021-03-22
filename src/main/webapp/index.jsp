@@ -496,6 +496,17 @@
 
     <div id="knowbees"><img src="img/knowbees.png" height="100%" width="100%"></div>
     <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>
+    <p>
+        With the amount of bees in this world it is no surprise that they look so different from each other, to the point where many people many not be able to
+        tell the difference from a bee and a wasp, fly, or beetle. Not only do bees look different than we think, they also live and work differently than we think.
+        It is easy to assume that because bumble bees and honey bees live in hives, produce honey, and work as a community, all bees do. However these two bee species
+        that we gather most of our knowledge about bees from only make up 2% of bees in North America. The other 98% of bees in North America are primarily solitary bees.
+        These bees build a nest and collect pollen for themselves instead of living in a hive and collecting pollen for the queen. These bees may reside in nest with other bees,
+        but they do not work as a collective hive. They often live undergound, in brush, in burrows, or tunnel into wood.
+    </p>
+    <br>
+    <p>There are 7 families of bees in the world in which the all bees are placed. Most of the  types of bees we are familiar with are in the Apidae family.
+        The smallest family is the Stenotritidae family with is located only in Australia and has 11 different types of bees.  </p>
 
 
 
