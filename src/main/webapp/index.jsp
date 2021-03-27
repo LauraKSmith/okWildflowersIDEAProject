@@ -245,6 +245,8 @@
     </p>
 
     <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
+    
+    <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <br>
     <!-- <p><strong>80%</strong> of the worlds plants require pollination by animals.</p> ---- 80% https://www.fs.fed.us/wildflowers/pollinators/importance.shtml#:~:text=More%20than%20150%20food%20crops,than%20%2410%20billion%20per%20year.-->
