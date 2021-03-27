@@ -264,6 +264,11 @@
 
     <div id="pollinationtitle"><img src="img/pollinationtitle.png" height="100%" width="100%"></div>
 
+    <p>Pollination is more complicated then most people understand. Most plants do not rely on the Honey bee for pollination. This small family of bees is originally from
+        Europe and we rely on it to pollinate nonnative foods such as lemons and almonds. The bulk of pollination in North America it done by native bee species, and often
+        specific bee varieties will pollinate certain plants, such as blueberry bees which will pollinate blueberries. However the most common and well known version of flower
+        pollination can be found by interacting with the images below.</p>
+
 
     <!-- start of pollinator explination-->
     <div class="container">
