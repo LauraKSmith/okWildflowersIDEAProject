@@ -237,6 +237,8 @@
 
     </script>
 
+    <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
+
     <p>It is believed that 80% of plants in the world rely on bee pollination. With bee populations decreasing at the level they are, the worlds food supply is at risk for every human and animal.
         Bees come in many shapes, colors, and sizes. From the large yellow and black Bumble bee that can be as large as a silver dollar to the Sweat bee that is as small as a grain of rice bees are diverse.
         There are 20,000 known bee species, 4,000 of which are located in the United States. There are still new bees being identified, so often that its believed there might be as many as 30,000 bee varieties.
@@ -244,8 +246,8 @@
         Of those bee species that at in decline it is believed that 90% of those bees have disappeared. The drastic loss and decrease of these bees has an impact on food cost, biodiversity, food scarcity, and more.
     </p>
 
-    <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
-    
+
+
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <br>
