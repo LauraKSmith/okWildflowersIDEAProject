@@ -83,6 +83,9 @@
 </nav>
 
 <section id="top">
+
+    <div id="bee divider"><img src="img/beedivider.png" height="100%" width="100%"></div>
+
     <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Bee populations are decreasing across the world for a number of reasons,
         and if we do not do our part we will lose a staggering amount of biodiversity and put our food sources at risk. Luckily, when it comes to saving the bees a little
         help goes a long way. Planting some of bees favorite foods bolsters your communities resilience and increase bee population.</p>
@@ -91,6 +94,8 @@
         Please join The Happy Hive Project by increasing the biodiveristy in your neighborhood! Let us know what you planted by using the map
         below. Plant by plant we can make sure bees have enough resources no matter where they are located.
     </p>
+
+    <div id="bee divider"><img src="img/beedivider2.png" height="100%" width="100%"></div>
 </section>
 
 
