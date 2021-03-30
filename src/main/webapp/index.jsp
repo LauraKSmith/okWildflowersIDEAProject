@@ -86,13 +86,13 @@
 
     <div id="bee divider"><img src="img/beedivider.png" height="100%" width="100%"></div>
 
-    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States. Bee populations are decreasing across the world for a number of reasons,
-        and if we do not do our part we will lose a staggering amount of biodiversity and put our food sources at risk. Luckily, when it comes to saving the bees a little
-        help goes a long way. Planting some of bees favorite foods bolsters your communities resilience and increase bee population.</p>
+    <p>The Happy Hive Project is a community centered endeavor to create pollinator gardens across the United States.
+        Worldwide declines in bee populations affect the biodiversity of our food supply and puts food sources at risk.
+        Fortunately, small conservation efforts can have deep and lasting impacts on the North American bee population and their resilience.</p>
     <br>
     <p>
-        Please join The Happy Hive Project by increasing the biodiveristy in your neighborhood! Let us know what you planted by using the map
-        below. Plant by plant we can make sure bees have enough resources no matter where they are located.
+        Please join The Happy Hive Project by increasing the biodiversity in your neighborhood! Let us know what you planted by using the map below.
+        Plant by plant we can make sure bees have enough resources no matter where they are located.
     </p>
 
     <div id="bee divider"><img src="img/beedivider2.png" height="100%" width="100%"></div>
@@ -189,10 +189,8 @@
 
 
 <section id="bottom">
-    <p>When the subject of bee pollination comes up people often know bee populations are on the decline,
-        however they do not know how that affects them in the real world or how to make a difference.
-        The Happy Hive Projects goal is to increase pollinator friendly plants, however this can not be done
-        effectively without an understanding of the how and the why of planting for pollinators.</p>
+    <p>While the declining bee population is a well-documented fact, the simple steps to combat this epidemic are not as commonly known.
+        The Happy Hive Project?s goal is to increase both pollinator friendly plants and the understanding of how and why these plants are essential.</p>
     <br>
 
     <!-- start of liquid gauges -->
@@ -239,13 +237,14 @@
 
     <div id="gaugegraph"><img src="img/GaugeText.png" height="100%" width="100%"></div>
 
-    <p>It is believed that 80% of plants in the world rely on bee pollination. With bee populations decreasing at the level they are, the worlds food supply is at risk for every human and animal.
-        Bees come in many shapes, colors, and sizes. From the large yellow and black Bumble bee that can be as large as a silver dollar to the Sweat bee that is as small as a grain of rice bees are diverse.
-        There are 20,000 known bee species, 4,000 of which are located in the United States. There are still new bees being identified, so often that its believed there might be as many as 30,000 bee varieties.
-        Despite having so many varieties of bees 37% of the species are known to be in decline. Many of the species in decline are the ones we heavily rely on for survival.
-        Of those bee species that at in decline it is believed that 90% of those bees have disappeared. The drastic loss and decrease of these bees has an impact on food cost, biodiversity, food scarcity, and more.
+    <p>Bees come in many shapes and sizes; it is estimated that there may be as many as 30,000 varieties with more than 4,000 identified species in the North America.
+        Despite the vast variety of bees, their populations are dwindling; nearly 40% of the identified bee populations are in demonstrative decline.
     </p>
-
+<br>
+    <p>
+        From the large yellow and black Bumble Bee, which can grow to the size of a silver dollar, to the Sweat Bee, which can be as small as a grain of rice,
+        each bee serves a specific function in maintaining our food supply chains and the biodiversity of our agriculture.  Eight out of ten of the world?s plants rely on some form of bee pollination.
+    </p>
 
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
@@ -259,24 +258,24 @@
 
     <div id="tempgraph"><img src="img/beechart4.png" height="80%" width="100%"></div>
 
-    <p>With the known bee colony losses we can see that bees need support from their local communities to get by.
-        The continued decline is not associate with colony collapse disorder it is associated with lack of resources. Homogenized grass yards
-        and gardens that are popular in the US do not allow common resources that bees have relied on for millennia.
-        This is a big loss when you consider yards are the 4th largest grown crop in the United States by land cover.
-        Weed killers remove clovers a common bee food source, flowers are relegated to structured flower beds, and raked leaves in the fall
-        and winter remove areas where many pollinators choose to hibernate. Knowing how much bees rely on these resources racking your leaves
-        to a composting pit in the back of your yard, or providing alternative food will help the bees in your community immensity.
-        On average bees need to visit approximately 500 of the same type of bloom in the same trip, we can help bees by making sure they have access to repetitive bloom types.
-        The easiest way to achieve this is to plant a tree or shrub that has many blooms on one plant or planting a flower garden with many of the same flower. </p>
+    <p>Preventing colony loss and providing support for bee colonies begins at the local level.  One of the largest contributing factors to the decline is a lack of resources.
+        Homogenized grass yards and gardens, while popular in the US, do not allow many of the common resources that bees rely upon for survival.
+        Yards are the 4th largest grown crop in the United States when calculated by land cover, leading to a direct impact on bee population.
+        Weed killers, while making lawns easier to maintain eradicate common bee food sources like clover.
+        Additionally, structured flower beds and raked leaves in the fall and winter remove hibernation homes for some pollinators. </p>
+    <br>
+    <p>Simple ways to combat bee decline are to rake leaves into composting pits or to provide supplemental food for the local bee population.
+        A single bee may need to visit as many as 500 of the same type of bloom in a trip; ensuring that your yard contains plants,
+        trees and shrubs that produce multiple blooms will assist in the bee?s goals. </p>
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <div id="pollinationtitle"><img src="img/pollinationtitle.png" height="100%" width="100%"></div>
 
-    <p>Pollination is more complicated then most people understand. Most plants do not rely on the Honey bee for pollination. This small family of bees is originally from
-        Europe and we rely on it to pollinate nonnative foods such as lemons and almonds. The bulk of pollination in North America it done by native bee species, and often
-        specific bee varieties will pollinate certain plants, such as blueberry bees which will pollinate blueberries. However the most common and well known version of flower
-        pollination can be found by interacting with the images below.</p>
+    <p>While the process of pollination is often complicated, learning how to help is not.
+        The most commonly known bee, the Honey Bee actually only pollinates a small population of plant life.
+        Learning what flowers attract and sustain your local populations of bees is essential in preserving food diversity in species like lemons, almonds and blueberries, just to name a few.
+        Some of the most common and well known varieties of flower pollination can be found by interacting with the image below.</p>
 
 
     <!-- start of pollinator explination-->
