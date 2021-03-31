@@ -293,8 +293,7 @@
     <div class="img__wrap2">
         <img class="img__img" src="img/pollination21.svg" />
         <div class="img__description_layer">
-            <p class="img__description">The bee will gather pollen from the plant to take back to hive.
-                The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
+            <p class="img__description">The bee will gather pollen from the plant to take back to hive. The bee will store all the gathered pollen mostly on its legs and continue to gather more.</p>
         </div>
     </div>
                 </div>
@@ -341,39 +340,37 @@
     <!-- start of plant calendar -->
     <div id="resources">
                 <p>
-                    Anyone can build a pollinator garden. From living in an apartment in the city to living on 60 acres of lands in the country
-                    there are many options for building a garden that will benefit your local bees. Honey bees will travel up to 5 miles to find food.
-                    Each trip a bee takes to find pollen it only visit one type of plant. While a bee can travel far and wide, planting with this
-                    in mind will make it easier for a bee colony to survive. Bees love trees because in a small area of land there are multiple types
-                    of the same bloom, one tree is equivalent to a football field full of a mixed variety of flowers. While humans may picture bees
-                    flying from flower to flower, this action expends significantly more energy than having a condensed area of one type of plant.
-                    For this reason people who are planting a pollinator garden should focus on plants that are densely packed with blooms in a small
-                    area, such as trees, clover yards, and shrubs. If you only have a little room to grow such as a window box or are working on your
-                    flower garden this is not a problem. Bees love flowers, and it is easy to help them by planting many of the same type of flower
-                    all over your yard so they can make a short trip.
+                    Anyone can build a pollinator garden. From living in an apartment in the city to living on 60 acres of lands in the country there are many options
+                    for building a garden that will benefit your local bees. Honey bees will travel up to 5 miles to find food. Each trip a bee takes to find pollen it
+                    only visit one type of plant. While a bee can travel far and wide, planting with this in mind will make it easier for a bee colony to survive.
+                    Bees love trees because in a small area of land there are multiple types of the same bloom, one tree is equivalent to a football field full of
+                    a mixed variety of flowers. While humans may picture bees flying from flower to flower, this action expends significantly more energy than having a
+                    condensed area of one type of plant. For this reason people who are planting a pollinator garden should focus on plants that are densely packed with
+                    blooms in a small area, such as trees, clover yards, and shrubs. If you only have a little room to grow such as a window box or are working on your
+                    flower garden this is not a problem. Bees love flowers, and it is easy to help them by planting many of the same type of flower all over your yard so they can make a short trip.
                 </p>
         <br>
         <p>
-            When it comes to the blooms you pick, bees love some types of flowers more than others. Bees are best able to see the color purple, so they
-            particularly love to visit flowers in this color like borage, clover, coneflowers, and lavender. They do not see red well so avoid flowers
-            that bloom in this color. Bees prefer large blooms where bees can easily reach the pollen that allows for them to become covered in pollen.
-            Flower that are long and tubular like trumpet flowers, petunias, and lupines are hard to reach the pollen and are usually pollinated by humming
-            birds because of their long beaks.
+            When it comes to the blooms you pick, bees love some types of flowers more than others. Bees are best able to see the color purple, so they particularly love to visit flowers in this color like
+            borage, clover, coneflowers, and lavender. They do not see red well so avoid flowers that bloom in this color. Bees prefer large blooms where bees can easily reach the pollen that allows for
+            them to become covered in pollen. Flower that are long and tubular like trumpet flowers, petunias, and lupines are hard to reach the pollen and are usually pollinated by humming birds because
+            of their long beaks.
         </p>
         <br>
-    <p>Providing food for bees year-round even when they are not particularly active is essential as most
-        bee keeps lose most of their colonys during the winter months. This calendar shows gardeners what plants can grow year-round so long as they are planted in
-        the right climate zone. </p></div>
+    <p>Providing food for bees year-round even when they are not particularly active is essential as most bee keeps lose most of their colonys during the winter months.
+        This calendar shows gardeners what plants can grow year-round so long as they are planted in the right climate zone. </p></div>
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <!-- start of html5 calender used https://www.image-maps.com/-->
     <div id="bloomtitle"><img src="img/bloomtitle.png" height="100%" width="100%"></div>
-    <p>The majority of beehives that fail do so in the winter when it is hard for them to find resources or pollen.
-        Bee activity naturally decreases in the winter months, but they still need some resources to survive.
-        This Bloom Year-Round calendar can help you plant a garden that will sustain bees year round environment permitting.
-        These plants were chosen for their blooming longevity and hardiness. Each section of the calendar will take you purchase
-        seeds to start your own pollinator garden, just make sure to verify they are properly zoned to grow in your region. </p>
+    <p>Ensuring year round survival is key for bee colonies. The most dangerous times for bee colonies are the winter months when food is scarce.
+        By planting hardy blooms that can sustain your winter conditions, you can help ensure that bees are thriving all year long.
+        This calendar shows what plants can grow year round, climate zones permitting. </p>
+    <br>
+    <p>Each section of the calendar will link you to options for purchasing seeds to start your own pollinator garden. When purchasing seeds,
+        be sure to take into account your region and climate to ensure maximum success.</p>
+
 
 <div id="bloom"></div>
     <img id="Image-Maps-Com-image-maps-2021-02-23-010326" src="https://www.image-maps.com/m/private/0/qi6enifdeo9uueb5nvcte1k2pv_calendar9.png" border="0" width="774" height="749" orgWidth="774" orgHeight="749" usemap="#image-maps-2021-02-23-010326" alt="" />
@@ -408,15 +405,14 @@
     <div id="climatetitle"><img src="img/climatetitle.png" height="100%" width="100%"></div>
 
     <p>
-        Where and when certain plants grow varies based on where they are planted. This is a tricky science based upon climate,
-        freezing winters, elevation, and general weather conditions. These conditions factor into the minimum winter temperature
-        which determines if a plant can survive in certain weather conditions.   In the US interpreting that information is made
-        simple by the USDA. The USDA produces the Plant Hardiness Zone Map, from zone 1 to 13 the zones produced help gardeners
-        decided on whether a plant is suitable for their garden. Most plants sold in stores and seed packets will say on their
-        package what zones they are recommended for.  By using those zones you can identify your climate zone and see pollinator
-        plants that are recommended for your region.
+        There are a number of factors that go into a successful garden; climate, weather patterns, elevation and other environmental
+        factors all play a part.  While starting a garden, it can become intimidating or overwhelming to try to survey all these facets.  Fortunatly,
+        the USDA has incorporated many of these factors into their Plant Hardiness Zone Map.
     </p>
-
+<br>
+    <p>The map breaks the country into 13 zones to help gardeners decide on whether a plant is suitable and sustainable for their garden.
+        Most plants and seeds sold in stores have labels that indicate what zones the seeds are best suited.  By utilizing the data provided,
+        you can increase your success in even the smallest gardening efforts.</p>
     <div id="map"></div>
 
     <script type="text/javascript">
@@ -510,16 +506,11 @@
     <div id="knowbees"><img src="img/knowbees.png" height="100%" width="100%"></div>
     <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>
     <p>
-        With the amount of bees in this world it is no surprise that they look so different from each other, to the point where many people many not be able to
-        tell the difference from a bee and a wasp, fly, or beetle. Not only do bees look different than we think, they also live and work differently than we think.
-        It is easy to assume that because bumble bees and honey bees live in hives, produce honey, and work as a community, all bees do. However these two bee species
-        that we gather most of our knowledge about bees from only make up 2% of bees in North America. The other 98% of bees in North America are primarily solitary bees.
-        These bees build a nest and collect pollen for themselves instead of living in a hive and collecting pollen for the queen. These bees may reside in nest with other bees,
-        but they do not work as a collective hive. They often live undergound, in brush, in burrows, or tunnel into wood.
+        When we talk about bees, it is easy to sterotype them.  Because the most commonly known bees are Honey Bees, it is easy to assume that all bees live in hives,
+        serve a queen and produce honey.  In fact, most bees are more solitary.  It may even be difficult to visually separate some classes of bees from a wasp, fly or beetle.
     </p>
     <br>
-    <p>There are 7 families of bees in the world in which the all bees are placed. Most of the  types of bees we are familiar with are in the Apidae family.
-        The smallest family is the Stenotritidae family with is located only in Australia and has 11 different types of bees.  </p>
+    <p>In fact, there are seven families of bees.  Each species of bee is placed in one of these seven families.  Learn what the seven bee families are below.  </p>
 
 
 
@@ -531,7 +522,7 @@
     </a>
     <!-- hyperlinked images-->
     <div id="source"></div>
-    <p>To learn more about pollinator gardens and how to create bee habitats follow the resources below.</p></div>
+    <p>To learn more about pollinator gardens and how to create bee habitats explore the websites below.</p></div>
     <br>
     <br>
     <a href="https://www.beelab.umn.edu/"> <img src="img/hive.svg" height="200px" width="200px"></img></a>
