@@ -340,25 +340,29 @@
     <!-- start of plant calendar -->
     <div id="resources">
                 <p>
-                    Anyone can build a pollinator garden. From living in an apartment in the city to living on 60 acres of lands in the country there are many options
-                    for building a garden that will benefit your local bees. Honey bees will travel up to 5 miles to find food. Each trip a bee takes to find pollen it
-                    only visit one type of plant. While a bee can travel far and wide, planting with this in mind will make it easier for a bee colony to survive.
-                    Bees love trees because in a small area of land there are multiple types of the same bloom, one tree is equivalent to a football field full of
-                    a mixed variety of flowers. While humans may picture bees flying from flower to flower, this action expends significantly more energy than having a
-                    condensed area of one type of plant. For this reason people who are planting a pollinator garden should focus on plants that are densely packed with
-                    blooms in a small area, such as trees, clover yards, and shrubs. If you only have a little room to grow such as a window box or are working on your
-                    flower garden this is not a problem. Bees love flowers, and it is easy to help them by planting many of the same type of flower all over your yard so they can make a short trip.
+                    Regardless of whether you live in an urban or rural area, you can build a pollinator garden to help the bee population.
+                    When planting a garden, whether it be a large garden or a small rooftop/ window garden, understanding bee?s needs can play a critical role.
                 </p>
         <br>
         <p>
-            When it comes to the blooms you pick, bees love some types of flowers more than others. Bees are best able to see the color purple, so they particularly love to visit flowers in this color like
-            borage, clover, coneflowers, and lavender. They do not see red well so avoid flowers that bloom in this color. Bees prefer large blooms where bees can easily reach the pollen that allows for
-            them to become covered in pollen. Flower that are long and tubular like trumpet flowers, petunias, and lupines are hard to reach the pollen and are usually pollinated by humming birds because
-            of their long beaks.
+            For example, Honey Bees are able to travel up to 5 miles to find food, and each trip a bee takes to collect pollen is for one type of plant.
+            Planting with this in mind and ensuring that there are multiple blooms within an area can help bees make shorter trips.
+            Trees that bloom are especially helpful as bees can often fill up at one blooming tree without additional travel; in fact,
+            one blooming tree is equivalent to an entire football field of blooms.  When trees are not a viable option, look for plants that allow for condensed blooms within the allotted ground space.
         </p>
         <br>
+    <p>When choosing flowers, there are a few things to consider.  First, bees are fond of the color purple, and less attracted to the color red;
+        so boarge, clover, coneflowers and lavender are all good choices.  Additionally, accessibility is a key component.
+        Look for plants that are easily accessible for the bees to become covered in pollen.  Avoid tubular blooms like lupines, trumpet flowers and petunias for bees,
+        these are typically visited by hummingbirds. </p>
+    <br>
+    <p>Another consideration in a pollinator garden is ensuring that food is accessible year round.
+        The most dangerous times for bee colonies are the winter months when food is scarce.
+        By planting hardy blooms that can sustain your winter conditions, you can help ensure that bees are thriving all year long.
+        This calendar shows what plants can grow year round, climate zones permitting.</p>
+    <br>
     <p>Providing food for bees year-round even when they are not particularly active is essential as most bee keeps lose most of their colonys during the winter months.
-        This calendar shows gardeners what plants can grow year-round so long as they are planted in the right climate zone. </p></div>
+        This calendar shows gardeners what plants can grow year-round so long as they are planted in the right climate zone.</p></div>
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
