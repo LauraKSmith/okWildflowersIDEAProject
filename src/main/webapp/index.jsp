@@ -190,7 +190,7 @@
 
 <section id="bottom">
     <p>While the declining bee population is a well-documented fact, the simple steps to combat this epidemic are not as commonly known.
-        The Happy Hive Project?s goal is to increase both pollinator friendly plants and the understanding of how and why these plants are essential.</p>
+        The Happy Hive Projects goal is to increase both pollinator friendly plants and the understanding of how and why these plants are essential.</p>
     <br>
 
     <!-- start of liquid gauges -->
@@ -243,7 +243,7 @@
 <br>
     <p>
         From the large yellow and black Bumble Bee, which can grow to the size of a silver dollar, to the Sweat Bee, which can be as small as a grain of rice,
-        each bee serves a specific function in maintaining our food supply chains and the biodiversity of our agriculture.  Eight out of ten of the world?s plants rely on some form of bee pollination.
+        each bee serves a specific function in maintaining our food supply chains and the biodiversity of our agriculture.  Eight out of ten of the worlds plants rely on some form of bee pollination.
     </p>
 
 
@@ -266,7 +266,7 @@
     <br>
     <p>Simple ways to combat bee decline are to rake leaves into composting pits or to provide supplemental food for the local bee population.
         A single bee may need to visit as many as 500 of the same type of bloom in a trip; ensuring that your yard contains plants,
-        trees and shrubs that produce multiple blooms will assist in the bee?s goals. </p>
+        trees and shrubs that produce multiple blooms will assist in the bees goals. </p>
 
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
@@ -341,7 +341,7 @@
     <div id="resources">
                 <p>
                     Regardless of whether you live in an urban or rural area, you can build a pollinator garden to help the bee population.
-                    When planting a garden, whether it be a large garden or a small rooftop/ window garden, understanding bee?s needs can play a critical role.
+                    When planting a garden, whether it be a large garden or a small rooftop/window garden, understanding bees needs can play a critical role.
                 </p>
         <br>
         <p>
@@ -410,7 +410,7 @@
 
     <p>
         There are a number of factors that go into a successful garden; climate, weather patterns, elevation and other environmental
-        factors all play a part.  While starting a garden, it can become intimidating or overwhelming to try to survey all these facets.  Fortunatly,
+        factors all play a part.  While starting a garden, it can become intimidating or overwhelming to try to survey all these facets.  Fortunately,
         the USDA has incorporated many of these factors into their Plant Hardiness Zone Map.
     </p>
 <br>
