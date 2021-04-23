@@ -511,7 +511,7 @@
   <!--  <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>  -->
 
 
-    <img id="Image-Maps-Com-image-maps-2021-04-22-225613" src="https://www.image-maps.com/m/private/0/lepqjb32tlc2aicp0sc225iqr4_beeinfo.png" border="0" width="100%" height="100%"  usemap="#image-maps-2021-04-22-225613" alt="" />
+    <img id="Image-Maps-Com-image-maps-2021-04-22-225613" src="https://www.image-maps.com/m/private/0/lepqjb32tlc2aicp0sc225iqr4_beeinfo.png" border="0" width="100%" height="100%"  orgWidth="7868" orgHeight="3950" usemap="#image-maps-2021-04-22-225613" alt="" />
     <map name="image-maps-2021-04-22-225613" id="ImageMapsCom-image-maps-2021-04-22-225613">
         <area shape="rect" coords="7866,3948,7868,3950" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
         <area  alt="" title="Bumble Bee" href="https://en.wikipedia.org/wiki/Bumblebee" shape="poly" coords="385,456,224,448,122,538,93,685,90,773,102,860,114,891,169,921,274,936,646,934,756,880,773,814,782,717,761,650,716,534,662,480,555,457" style="outline:none;" target="_self"     />
