@@ -508,9 +508,9 @@
     <div id="divider"><img src="img/divider.png" height="100%" width="100%"></div>
 
     <div id="knowbees"><img src="img/knowbees.png" height="100%" width="100%"></div>
-  <!--  <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>  -->
+   <div id="beeinfo"><img src="img/beeinfo.png" height="100%" width="100%"></div>
 
-
+<!--
     <img id="Image-Maps-Com-image-maps-2021-04-22-225613" src="https://www.image-maps.com/m/private/0/lepqjb32tlc2aicp0sc225iqr4_beeinfo.png" border="0" width="100%" height="100%"  orgWidth="7868" orgHeight="3950" usemap="#image-maps-2021-04-22-225613" alt="" />
     <map name="image-maps-2021-04-22-225613" id="ImageMapsCom-image-maps-2021-04-22-225613">
         <area shape="rect" coords="7866,3948,7868,3950" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
@@ -538,7 +538,7 @@
         <area  alt="" title="Cellophane Bee" href="https://en.wikipedia.org/wiki/Colletes_latitarsis" shape="poly" coords="5474,1565,5624,1485,5599,1253,5580,991,5388,1006,5063,1014,4887,1075,4858,1242,4858,1406,4871,1491,4924,1534" style="outline:none;" target="_self"     />
         <area  alt="" title="Plasterer Bee" href="https://en.wikipedia.org/wiki/Colletidae" shape="poly" coords="5318,2194,5580,2128,5586,1943,5488,1737,5074,1617,4930,1644,4877,1688,4855,1868,4873,2165" style="outline:none;" target="_self"     />
         <area  alt="" title="Stenotritidae" href="https://en.wikipedia.org/wiki/Stenotritidae" shape="poly" coords="7048,958,7863,953,7825,652,7620,521,7245,433,7014,554" style="outline:none;" target="_self"     />
-    </map>
+    </map>   -->
     <p>
         When we talk about bees, it is easy to sterotype them.  Because the most commonly known bees are Honey Bees, it is easy to assume that all bees live in hives,
         serve a queen and produce honey.  In fact, most bees are more solitary.  It may even be difficult to visually separate some classes of bees from a wasp, fly or beetle.
