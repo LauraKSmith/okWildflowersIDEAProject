@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
 
   <!-- Google maps API -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5qBRmbd8HkhuQFbY4bL9tC0Nae7qMJkU&libraries=geometry,places">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkOGP0hrxvaOgbV3iwO9rdm8qniMqeb1g&libraries=geometry,places">
   </script>
 
     <!-- Custom font -->
