@@ -464,6 +464,9 @@
                             layer.on('mouseover', function() {
                                 info.update(feature.properties);
                             })
+                            layer.on('click', function() {
+                                info.update(feature.properties);
+                            })
                             layer.on('mouseout', function() {
                                 info.update();
                             })
